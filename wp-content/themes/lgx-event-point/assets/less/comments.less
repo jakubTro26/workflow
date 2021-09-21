@@ -1,0 +1,380 @@
+article {
+  footer {
+    #comments {
+      margin-top: 2.6rem;
+      display: block;
+      overflow: hidden;
+      box-sizing: border-box;
+      .logged-in-as {
+        margin-bottom: 15px;
+      }
+      .comment-form {
+        overflow: hidden;
+      }
+      .comment-reply-link {
+        border: 1px solid @brand-color2;
+        padding: 0 2rem;
+        text-transform: uppercase;
+        font-size: 12px;
+        font-weight: 700;
+        color: @brand-color2;
+        opacity: .7;
+        margin-top: 1rem;
+        margin-bottom: 10px;
+        display: inline-block;
+        border-radius: 4px;
+        &:hover {
+          background: @brand-color;
+          color: @white-color;
+          border: 1px solid @brand-color;
+          -webkit-box-shadow: 0 4px 10px rgba(0,0,0,.25);
+          -moz-box-shadow: 0 4px 10px rgba(0,0,0,.25);
+          box-shadow: 0 4px 10px rgba(0,0,0,.25);
+          opacity: 1;
+        }
+      }
+      .edit-link {
+        text-transform: uppercase;
+        font-size: 12px;
+        color: @brand-color;
+        font-weight: 700;
+        // margin-right: .5rem;
+        // float: right;
+        // position: relative;
+        position: absolute;
+        top: 4px;
+        right: 4px;
+        //top: 5px;
+        a {
+          padding: 5px 1.5rem;
+          background: #ddd;
+          border-radius: 4px;
+          color: inherit;
+        }
+        &:hover {
+          a {
+            background: @brand-color;
+            color: @white-color;
+            -webkit-box-shadow: 0 4px 6px rgba(0,0,0,.2);
+            -moz-box-shadow: 0 4px 6px rgba(0,0,0,.2);
+            box-shadow: 0 4px 6px rgba(0,0,0,.2);
+          }
+        }
+      }
+      .comments-title {
+        .font-size(26);
+        margin-bottom: 2.6rem;
+      }
+      .comment-list,
+      .comment-list {
+        padding-left: 0;
+        li{
+          list-style: none;
+          background: #fff;
+          -webkit-box-shadow: 0 0px 10px rgba(0,0,0,.1);
+          -moz-box-shadow: 0 0px 10px rgba(0,0,0,.1);
+          box-shadow: 0 0px 10px rgba(0,0,0,.1);
+          padding: 2rem 1.5rem 1.5rem 5rem;
+          border-radius: 4px;
+          margin-bottom: 5px;
+          .comment-body {
+            background: @body-bg;
+            border: 1px solid #eee;
+            padding-left: 10px;
+            padding-right: 5px;
+            border-radius: 4px;
+            .comment-meta {
+              width: 100%;
+              display: block;
+              margin-top: 0;
+              a {
+                time {
+                  font-size: 13px;
+                  text-transform: uppercase;
+                }
+              }
+              .comment-author {
+                position: relative;
+                color: @black-color;
+                a {
+                  color: inherit;
+                }
+                img {
+                  position: absolute;
+                  left: -50px;
+                }
+              }
+              .comment-metadata {
+                position: relative;
+                min-height: 40px;
+              }
+            }
+            .comment-content {
+              display: block;
+              width: 100%;
+            }
+          }
+          .children,
+          .children {
+            li {
+              margin-top: 2rem;
+              padding: 0;
+              box-shadow: none;
+              margin-bottom: 5px;
+              display: block;
+              .comment-body {
+                background: transparent;
+              }
+            }
+          }
+        }
+      }
+      //form Style
+      #respond {
+        .comment-reply-title {
+
+        }
+        .comment-notes {
+          margin-bottom: 15px;
+          .required {
+            color: @brand-color;
+          }
+        }
+        form {
+          label {
+            display: inline-block;
+            width: 20%;
+            float: left;
+            .required {
+              color: @brand-color;
+            }
+          }
+          input, textarea {
+            width: 79%;
+            border: 1px solid @form-border;
+          }
+        }
+      }
+      .comment-form-author,
+      .comment-form-email,
+      .comment-form-url,
+      .comment-form-comment {
+        margin-bottom: 1.5rem;
+      }
+      input {
+        display: inline-block;
+        height: 50px;
+        padding: 1.5rem 2rem;
+        font-size: 14px;
+        line-height: 1.42857143;
+        color: #555;
+        background-color: @white-color;
+        background-image: none;
+        border: none;
+        border-radius: 4px;
+        -webkit-transition: border-color ease-in-out .15s,-webkit-box-shadow ease-in-out .15s;
+        -o-transition: border-color ease-in-out .15s,box-shadow ease-in-out .15s;
+        transition: border-color ease-in-out .15s,box-shadow ease-in-out .15s;
+        -webkit-box-shadow: none;
+        -moz-box-shadow: none;
+        box-shadow: none;
+      }
+      textarea {
+        display: inline-block;
+        padding: 1.5rem 2rem;
+        font-size: 14px;
+        line-height: 1.42857143;
+        color: #555;
+        background-color: @white-color;
+        background-image: none;
+        border: none;
+        -webkit-transition: border-color ease-in-out .15s,-webkit-box-shadow ease-in-out .15s;
+        -o-transition: border-color ease-in-out .15s,box-shadow ease-in-out .15s;
+        transition: border-color ease-in-out .15s,box-shadow ease-in-out .15s;
+        -webkit-box-shadow: none;
+        -moz-box-shadow: none;
+        box-shadow: none;
+        border-radius: 4px;
+      }
+      input, textarea {
+        &:hover, &:active, &:focus {
+          border: 1px solid @brand-color !important;
+          box-shadow: none !important;
+        }
+      }
+      .form-submit {
+        background: @brand-color2;
+        -webkit-box-shadow: 0 4px 10px rgba(0,0,0,.25)!important;
+        -moz-box-shadow: 0 4px 10px rgba(0,0,0,.25)!important;
+        box-shadow: 0 4px 10px rgba(0,0,0,.25)!important;
+        width: auto;
+        display: inline-block;
+        float: right;
+        border-radius: 4px;
+        margin-right: 1rem;
+        margin-bottom: 12px;
+        .submit {
+          font-family: @lgx-heading-font;
+          background: transparent;
+          .font-size(16);
+          padding: 1.5rem 4rem;
+          height: auto;
+          color: @white-color;
+          overflow: hidden;
+          -webkit-border-radius: 4px;
+          -moz-border-radius: 4px;
+          border-radius: 4px;
+          letter-spacing: .1rem;
+          text-transform: uppercase;
+          .font-size(14);
+          -webkit-transition: all .3s ease-in-out 0s;
+          -moz-transition: all .3s ease-in-out 0s;
+          -o-transition: all .3s ease-in-out 0s;
+          transition: all .3s ease-in-out 0s;
+          border: none !important;
+        }
+        &:hover {
+          background: @brand-color2;
+          color: @white-color;
+          -webkit-box-shadow: 0 4px 10px rgba(0,0,0,.25)!important;
+          -moz-box-shadow: 0 4px 10px rgba(0,0,0,.25)!important;
+          box-shadow: 0 4px 10px rgba(0,0,0,.25)!important;
+          .submit {
+            -webkit-animation-name: zoomIn;
+            animation-name: zoomIn;
+            -webkit-transform-origin: center;
+            transform-origin: center;
+            animation-duration: 500ms;
+            animation-timing-function: linear;
+          }
+        }
+      }
+
+    }
+  }
+}
+
+//Comments Typhography issue
+article footer #comments {
+  .comment-body {
+    .comment-content {
+      ol,ul {
+        li {
+          background: transparent;
+          box-shadow: none;
+          margin-bottom: 0;
+          padding: .5rem;
+        }
+      }
+      ol {
+        li {
+          list-style-type: decimal;
+        }
+      }
+      ul {
+        li {
+          list-style-type: disc;
+        }
+      }
+    }
+    table td,
+    table td{
+      border-top: 1px solid #ddd;
+      padding: 10px 0;
+    }
+    table tbody tr:last-child td,
+    table tbody tr:last-child td{
+      border-bottom: 1px solid #ddd;
+    }
+  }
+
+}
+
+
+
+
+// password page
+.post-password-form {
+  input {
+    display: inline-block;
+    height: 50px;
+    padding: 1.5rem 2rem;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #555;
+    background-color: @white-color;
+    background-image: none;
+    border: none;
+    border-radius: 4px;
+    -webkit-transition: border-color ease-in-out .15s,-webkit-box-shadow ease-in-out .15s;
+    -o-transition: border-color ease-in-out .15s,box-shadow ease-in-out .15s;
+    transition: border-color ease-in-out .15s,box-shadow ease-in-out .15s;
+    -webkit-box-shadow: none;
+    -moz-box-shadow: none;
+    box-shadow: none;
+    margin: 0 3px 0 1rem;
+  }
+  input[type=submit] {
+    margin: 0;
+    font-family: @lgx-heading-font;
+    background: @brand-color2;
+    padding: 1rem 2.6rem;
+    color: @white-color;
+    overflow: hidden;
+    display: inline-block;
+    -webkit-box-shadow: 0 4px 10px rgba(0,0,0,.25);
+    -moz-box-shadow: 0 4px 10px rgba(0,0,0,.25);
+    box-shadow: 0 4px 10px rgba(0,0,0,.25);
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    border-radius: 4px;
+    letter-spacing: .1rem;
+    text-transform: uppercase;
+    .font-size(14);
+    -webkit-transition: all .3s ease-in-out 0s;
+    -moz-transition: all .3s ease-in-out 0s;
+    -o-transition: all .3s ease-in-out 0s;
+    transition: all .3s ease-in-out 0s;
+    border: 0;
+    &:hover {
+      background: @brand-color;
+      color: @white-color;
+      span {
+        display: block;
+        -webkit-animation-name: zoomIn;
+        animation-name: zoomIn;
+        -webkit-transform-origin: center;
+        transform-origin: center;
+        animation-duration: 500ms;
+        animation-timing-function: linear;
+      }
+    }
+  }
+}
+
+
+//Responsive
+@media (max-width : @screen-xs-max) {
+  article footer #comments .edit-link a {
+    font-size: 10px;
+    padding: 2px 1rem;
+  }
+  article footer #comments .edit-link {
+    font-weight: 400;
+    position: absolute;
+    right: 4px;
+    top: 2.3rem;
+    text-transform: uppercase;
+  }
+}
+
+
+@media (max-width : 400px) {
+  article footer #comments #respond form label,
+  article footer #comments #respond form input, article footer #comments #respond form textarea {
+    width: 100%;
+  }
+  article footer #comments ol.comment-list li, article footer #comments ul.comment-list li {
+    padding: 2rem 1.5rem 1.5rem 5.5rem;
+  }
+}

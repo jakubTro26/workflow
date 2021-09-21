@@ -1,0 +1,17 @@
+.wp-coming-soon-box { width:100%; margin:20px 0; clear:both }
+.countdown {width: 300px; height: 73px;margin:0 auto; line-height:normal ; margin-top:51px;text-transform:uppercase;}
+.default_message { margin:30px auto; text-align:center; font-size:40px;}
+.digit { position:relative; float:left; width:64px; height:64px; background:url(../images/flip.png) no-repeat; background-size:100%}
+
+#days, 
+#hours, 
+#minutes, 
+#seconds { position:relative; color:#fff;font-family:'Trajan Pro';
+	font-weight:bold;
+	font-size:35px; text-align:center; width:64px; height:54px; padding-top:8px; z-index:1; }
+
+.digit_label { float:left; width:64px; height:20px; color:#000; font-size:18px; text-align:center;}
+
+.digit span { width:59px; height:10px; background:url(../images/flip_gradient.png) no-repeat; position:absolute; display: block; top:0; z-index:2}
+
+

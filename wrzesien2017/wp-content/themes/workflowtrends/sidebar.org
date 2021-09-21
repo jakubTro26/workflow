@@ -1,0 +1,216 @@
+﻿<?php
+/**
+ * The Sidebar containing the main widget area.
+ *
+ * @package WordPress
+ * @subpackage Puremind
+ * @since Puremind
+ */
+?>
+<root>
+  <div class="title_sponsorzy" style="width:100%; text-align:center; background-color:#300743; color:#FFF; margin-top:50px; border: thin solid #300743;padding-top:5px;">
+    SPONSORZY
+  </div>
+  <div style=" width:100%; text-align:center; border-left: thin solid #300743; border-right: thin solid #300743; border-bottom: thin solid #300743; color:#660066">
+    &nbsp
+    <table style="width:100%;">
+      <tr>
+        <td>
+          <a href="http://www.elo.com/wcm/pl/home/index.shtml" onclick="this.target='_blank'">
+            <img src="http://workflowtrends.pl/images/logotypy/sponsorzy/elo_logo.jpg" width="100px"/>
+          </a>
+          <br/>
+        </td>
+      </tr>
+        <tr>
+          <td>
+            <a href="http://www.astrafox.pl/" onclick="this.target='_blank'">
+              <img src="http://www.astrafox.pl/i/astrafox_logo.png" style="width: 130px; "/>&nbsp
+            </a>
+            <br/>
+          </td> 
+        </tr>
+        <tr>
+          <td>
+            <a href="http://mis.com.pl/" onclick="this.target='_blank'">
+              <img src="http://mis.com.pl/wp-content/themes/mis/img/mis-logo.png" style="width: 130px; "/>&nbsp
+            </a>
+          </td>
+        </tr>
+    </table>
+  </div>
+  <br/>
+  <div class="title_sponsorzy" style="width:100%; text-align:center; background-color:#300743; color:#FFF; border: thin solid #300743;padding-top:5px;">
+    WSPÓŁPRACA MERYTORYCZNA
+  </div>
+  <div style=" width:100%; text-align:center; border-left: thin solid #300743; border-right: thin solid #300743; border-bottom: thin solid #300743; color:#660066">
+    &nbsp
+    <table style="width:100%;">
+      <tr>
+        <td>
+          <a href="http://www.mgx.com.pl/" onclick="this.target='_blank'">
+            <img src="http://www.pureconferences.pl/images/banners/eksperci/mgx_logo.jpg" style="width:170px;"/>&nbsp
+          </a>
+        </td>
+      </tr>
+    <tr>
+        <td>
+          <a href="http://mandarine.pl/" onclick="this.target='_blank'">
+            <img src="http://workflowtrends.pl/images/logotypy/patroni/mandarine.png" style="width:170px;"/>&nbsp
+          </a>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <a href="http://lubasziwspolnicy.pl/" onclick="this.target='_blank'">
+            <img src="http://www.pureconferences.pl/images/LWjasne.png" style="width:170px;"/>&nbsp
+          </a>
+        </td>
+      </tr>
+    </table>
+  </div>
+  <br/>
+
+  <div  class="title_sponsorzy" style="width:100%; text-align:center; background-color:#300743; color:#FFF; border: thin solid #300743;padding-top:5px;">
+    PATRONI MEDIALNI
+  </div>
+  <div style=" width:100%; text-align:center; border-left: thin solid #300743; border-right: thin solid #300743; border-bottom: thin solid #300743; color:#660066">
+    &nbsp
+    <table style="width:100%;">
+      <tr>
+        <td style="width:50%">
+          <a href="http://forumbiznesu.pl/" onclick="this.target='_blank'">
+            <img src="http://workflowtrends.pl/wp-content/themes/workflowtrends/images/logotypy/patroni/forumbiznesulogsmall.jpg" width="125"/>
+          </a>
+          <br/>
+        </td>
+        <td style="width:50%">
+          <a href="http://www.outsourcingportal.pl/pl/" onclick="this.target='_blank'">
+            <img src="http://www.pureconferences.pl/images/banners/patroni/outsourcing.png" width="125"/>
+          </a>
+          <br/>
+        </td>
+      </tr>    
+      <tr>
+        <td style="width:50%">
+          <a href="http://www.e-biurowce.pl/pl/" onclick="this.target='_blank'">
+            <img src="http://www.e-biurowce.pl/bundles/krnoffice/images/logo.png" width="125"/>
+          </a>
+          <br/>
+        </td>
+        <td style="width:50%">
+          <a href="http://erp-view.pl/" onclick="this.target='_blank'">
+            <img src="http://www.pureconferences.pl/images/banners/patroni/erp_view.png" width="125"/>
+          </a>
+          <br/>
+        </td>
+      </tr>
+      <tr>
+        <td style="width:50%">
+          <a href="http://erp24.pl/" onclick="this.target='_blank'">
+            <img src="http://workflowtrends.pl/images/logotypy/patroni/erp24.jpg" width="90"/>
+          </a>
+          <br/>
+        </td>
+        <td style="width:50%">
+          <a href="http://www.eksploracjaprocesow.pl/ " onclick="this.target='_blank'">
+            <img src="http://bpmtrends.pl/images/logotypy/patroni/ep.jpg" width="125"/>
+          </a>
+          <br/>
+        </td>
+      </tr>
+      <tr>
+        <td style="width:50%">
+          <a href="http://www.outsourcingandmore.pl/" onclick="this.target='_blank'">
+            <img src="http://www.pureconferences.pl/images/banners/patroni/om-logo.jpg.jpg" width="125"/>
+          </a>
+          <br/>
+        </td>
+      <td style="width:50%">
+          <a href="http://www.kocham-biuro.pl/" onclick="this.target='_blank'">
+            <img src="http://www.kocham-biuro.pl/templates/kocham_biuro/images/header-object.png" width="125"/>
+          </a>
+          <br/>
+        </td>
+      </tr>
+      <tr>
+        <td style="width:50%">
+          <a href="http://www.praca.pl/" onclick="this.target='_blank'">
+            <img src="http://workflowtrends.pl/images/logotypy/patroni/pracapl.gif" width="130"/>
+          </a>
+          <br/>
+        </td>
+        <td style="width:50%">
+          
+          <a href="http://itfocus.pl/" onclick="this.target='_blank'">
+            <img src="http://itfocus.pl/sites/all/themes/focus04/logo.png" width="125"/>
+          </a>
+          <br/>
+        </td>
+      </tr>
+      <tr>
+        <td style="width:50%">
+          <a href="http://www.magazynit.pl/" onclick="this.target='_blank'">
+            <img src="http://workflowtrends.pl/images/logotypy/patroni/magazyn%20it.jpg" width="135"/>
+          </a>
+          <br/>
+        </td>
+        <td style="width:50%">
+          <a href="http://www.ceeitandtelecom.com/"  onclick="this.target='_blank'">
+            <img src="http://mobilesummit.pl/images/logotypy/patroni/pmr.jpg" width="135" />
+          </a>
+        </td>
+      </tr>
+      <tr>
+        <td style="width:50%">
+          <a href="http://www.legalnews24.pl/" onclick="this.target='_blank'">
+            <img src="http://workflowtrends.pl/images/logotypy/patroni/legalnews24.jpg" width="135"/>
+          </a>
+          <br/>
+        </td>
+        <td style="width:50%">
+          <a href="http://www.twojbiznes24.pl/"  onclick="this.target='_blank'">
+            <img src="http://www.pureconferences.pl/images/banners/patroni/twojbiznes_logo.jpg" width="135" />
+          </a>
+        </td>
+      </tr>
+      <tr>
+        <td style="width:50%">
+          <a href="http://procesybiznesowe.pl/" onclick="this.target='_blank'">
+            <img src="http://www.pureconferences.pl/images/banners/patroni/procesybiznesowe_logo_transparent.png" width="135"/>
+          </a>
+          <br/>
+        </td>
+        <td style="width:50%">
+          <a href="http://di.com.pl/"  onclick="this.target='_blank'">
+            <img src="http://bpmtrends.pl/images/logotypy/patroni/dziennik.gif" width="135" />
+          </a>
+        </td>
+      </tr>
+      <tr>
+        <td style="width:100%; text-align:center" colspan="2">
+          
+          <a href="http://www.web-news.pl/" onclick="this.target='_blank'">
+            <img src="http://workflowtrends.pl/images/logotypy/patroni/webnews.jpg" width="80"/>
+          </a>
+          <br/>
+        </td>
+      </tr>
+    </table>
+  </div>
+  <br/>
+  <div  class="title_sponsorzy" style="width:100%; text-align:center; background-color:#300743; color:#FFF; border: thin solid #300743;padding-top:5px;">
+    ORGANIZATOR
+  </div>
+  <div style=" width:100%; text-align:center;  border-left: thin solid #300743; border-right: thin solid #300743;  margin-bottom: 20px; border-bottom: thin solid #300743; color:#660066">
+    <table style="width:100%;">
+      <tr>
+        <td>
+          <a href="http://pureconferences.pl" onclick="this.target='_blank'">
+            <img src="http://workflowtrends.pl/images/logotypy/organizator/logopure.png" width="100px"/>
+          </a>
+        </td>
+      </tr>
+    </table>
+  </div>
+</root>

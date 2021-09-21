@@ -1,0 +1,148 @@
+﻿<?php
+/**
+ * The main template file.
+ *
+ * This is the most generic template file in a WordPress theme
+ * and one of the two required files for a theme (the other being style.css).
+ * It is used to display a page when nothing more specific matches a query.
+ * E.g., it puts together the home page when no home.php file exists.
+ * Learn more: http://codex.wordpress.org/Template_Hierarchy
+ *
+ * @package WordPress
+ * @subpackage Puremind
+ */
+
+get_header(); ?>
+
+	
+		
+
+				<div id="content">
+					<div class="row clearfix">
+						<div class="box1">
+							<a href="http://workflowtrends.pl/?page_id=2" ><img class="box1_img" src="<?php echo get_template_directory_uri(); ?>/images/kafelek_WYDARZENIU.jpg"/> </a>
+						</div>
+						<div class="box2">
+							<a href="http://workflowtrends.pl/?page_id=19" ><img class="box2_img" src="<?php echo get_template_directory_uri(); ?>/images/kafelek_DLA-KOGO.jpg"/> </a>
+						</div>
+						<div class="box3">
+							<a href="http://workflowtrends.pl/?page_id=109" ><img class="box3_img" src="<?php echo get_template_directory_uri(); ?>/images/kafelek_DLACZEGO.jpg"/> </a>
+						</div>
+					</div>
+					<div class="row2 clearfix">
+						<div class="box4">
+							<a href="http://workflowtrends.pl/?page_id=21" ><img class="box4_img" src="<?php echo get_template_directory_uri(); ?>/images/kafelek_ZAREJESTRUJ.jpg"/> </a>
+						</div>
+						<div class="box5">
+							<a href="http://workflowtrends.pl/?page_id=111" ><img class="box5_img" src="<?php echo get_template_directory_uri(); ?>/images/kafelek_PAKIETY.jpg"/> </a>
+						</div>
+						<div class="box6">
+							<a href="http://workflowtrends.pl/?page_id=30" ><img class="box6_img" src="<?php echo get_template_directory_uri(); ?>/images/kafelek_POPRZEDNIE.jpg"/> </a>
+						</div>
+					</div>
+				<div class="row3 clearfix">
+					<h3 class="title">Sponsorzy</h3>
+					<h3>
+					<center>
+            <br/>
+             <a href="http://www.elo.com/wcm/pl/home/index.shtml" onclick="this.target='_blank'">
+            <img src="http://workflowtrends.pl/images/logotypy/sponsorzy/elo_logo.jpg" width="100px"/>
+          </a>&nbsp&nbsp&nbsp
+            <a href="http://www.astrafox.pl/" onclick="this.target='_blank'">
+              <img src="http://www.astrafox.pl/i/astrafox_logo.png" style="width: 130px; "/>&nbsp
+            </a>&nbsp&nbsp&nbsp
+            <a href="http://mis.com.pl/" onclick="this.target='_blank'">
+              <img src="http://mis.com.pl/wp-content/themes/mis/img/mis-logo.png" style="width: 130px; "/>&nbsp
+            </a>&nbsp&nbsp&nbsp
+					</center>
+					</h3>
+          <br/>
+					<h3 class="title">WSPÓŁPRACA MERYTORYCZNA</h3><br>
+					<h3>
+					<center>
+            <a href="http://www.mgx.com.pl/" onclick="this.target='_blank'">
+            <img src="http://www.pureconferences.pl/images/banners/eksperci/mgx_logo.jpg" style="width:170px;"/>&nbsp
+          </a>&nbsp&nbsp&nbsp
+          <a href="http://mandarine.pl/" onclick="this.target='_blank'">
+            <img src="http://workflowtrends.pl/images/logotypy/patroni/mandarine.png" style="width:170px;"/>&nbsp
+          </a>&nbsp&nbsp&nbsp
+          <a href="http://lubasziwspolnicy.pl/" onclick="this.target='_blank'">
+            <img src="http://www.pureconferences.pl/images/LWjasne.png" style="width:170px;"/>&nbsp
+          </a>&nbsp&nbsp&nbsp
+          </center>
+					</h3>
+          <br/>
+					<h3 class="title">Patroni medialni</h3><br/>
+					<h3>
+					<center>
+            <a href="http://forumbiznesu.pl/" onclick="this.target='_blank'">
+            <img src="http://workflowtrends.pl/wp-content/themes/workflowtrends/images/logotypy/patroni/forumbiznesulogsmall.jpg" width="135"/>
+          </a>&nbsp&nbsp&nbsp
+          <a href="http://www.outsourcingportal.pl/pl/" onclick="this.target='_blank'">
+            <img src="http://www.pureconferences.pl/images/banners/patroni/outsourcing.png" width="135"/>
+          </a>&nbsp&nbsp&nbsp
+          <a href="http://www.e-biurowce.pl/pl/" onclick="this.target='_blank'">
+            <img src="http://www.e-biurowce.pl/bundles/krnoffice/images/logo.png" width="135"/>
+          </a>&nbsp&nbsp&nbsp
+          <a href="http://erp-view.pl/" onclick="this.target='_blank'">
+            <img src="http://www.pureconferences.pl/images/banners/patroni/erp_view.png" width="135"/>
+          </a>&nbsp&nbsp&nbsp
+          <a href="http://erp24.pl/" onclick="this.target='_blank'">
+            <img src="http://workflowtrends.pl/images/logotypy/patroni/erp24.jpg" width="90"/>
+          </a>&nbsp&nbsp&nbsp
+          <a href="http://www.eksploracjaprocesow.pl/ " onclick="this.target='_blank'">
+            <img src="http://bpmtrends.pl/images/logotypy/patroni/ep.jpg" width="135"/>
+          </a>&nbsp&nbsp&nbsp
+          <a href="http://www.outsourcingandmore.pl/" onclick="this.target='_blank'">
+            <img src="http://www.pureconferences.pl/images/banners/patroni/om-logo.jpg.jpg" width="135"/>
+          </a>&nbsp&nbsp&nbsp
+          <a href="http://www.kocham-biuro.pl/" onclick="this.target='_blank'">
+            <img src="http://www.kocham-biuro.pl/templates/kocham_biuro/images/header-object.png" width="135"/>
+          </a>&nbsp&nbsp&nbsp
+          <a href="http://www.praca.pl/" onclick="this.target='_blank'">
+            <img src="http://workflowtrends.pl/images/logotypy/patroni/pracapl.gif" width="135"/>
+          </a>&nbsp&nbsp&nbsp
+          <a href="http://itfocus.pl/" onclick="this.target='_blank'">
+            <img src="http://itfocus.pl/sites/all/themes/focus04/logo.png" width="135"/>
+          </a>&nbsp&nbsp&nbsp
+          <a href="http://www.magazynit.pl/" onclick="this.target='_blank'">
+            <img src="http://workflowtrends.pl/images/logotypy/patroni/magazyn%20it.jpg" width="135"/>
+          </a>&nbsp&nbsp&nbsp
+          <a href="http://www.ceeitandtelecom.com/"  onclick="this.target='_blank'">
+            <img src="http://mobilesummit.pl/images/logotypy/patroni/pmr.jpg" width="135" />
+          </a>&nbsp&nbsp&nbsp
+          <a href="http://www.legalnews24.pl/" onclick="this.target='_blank'">
+            <img src="http://workflowtrends.pl/images/logotypy/patroni/legalnews24.jpg" width="135"/>
+          </a>&nbsp&nbsp&nbsp
+          <a href="http://www.twojbiznes24.pl/"  onclick="this.target='_blank'">
+            <img src="http://www.pureconferences.pl/images/banners/patroni/twojbiznes_logo.jpg" width="135" />
+          </a>&nbsp&nbsp&nbsp
+            <a href="http://procesybiznesowe.pl/" onclick="this.target='_blank'">
+              <img src="http://www.pureconferences.pl/images/banners/patroni/procesybiznesowe_logo_transparent.png" width="135"/>
+            </a>&nbsp&nbsp&nbsp
+            <a href="http://www.web-news.pl/" onclick="this.target='_blank'">
+              <img src="http://workflowtrends.pl/images/logotypy/patroni/webnews.jpg" width="80"/>
+            </a>&nbsp&nbsp&nbsp
+              <a href="http://di.com.pl/"  onclick="this.target='_blank'">
+                <img src="http://bpmtrends.pl/images/logotypy/patroni/dziennik.gif" width="135" />
+              </a>&nbsp&nbsp&nbsp
+					</center>
+					</h3>
+          <br/>    
+					<h3 class="title">Organizator</h3><br/>
+					<h3>
+					<center>
+					<a href="http://pureconferences.pl" onclick="this.target='_blank'"><img src="http://workflowtrends.pl/images/logotypy/organizator/logopure.png" style="width: 114px; height: 97px;" /></a><br/>
+					<br/>
+					</center>
+					</h3>
+				</div>
+				</div>
+		
+		
+
+		
+		
+
+
+<?php get_footer(); ?>

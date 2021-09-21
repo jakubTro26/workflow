@@ -1,0 +1,123 @@
+/*
+Theme Name: LGX Event Point
+Adding support for languages written in a Right To Left (RTL) direction is easy -
+it's just a matter of overwriting all the horizontal positioning attributes
+of your CSS stylesheet in a separate stylesheet file named rtl.css.
+https://codex.wordpress.org/Right-to-Left_Language_Support
+*/
+
+ 
+body {
+	direction: rtl;
+	unicode-bidi: embed;
+}
+ 
+
+
+ .lgx-header .lgx-navbar .lgx-nav {
+    float: left;
+}
+.lgx-banner .lgx-countdown-area {
+    margin-right: -1rem;
+}
+
+
+
+.lgx-schedule .lgx-tab .lgx-single-tab .author .author-img, .lgx-schedule .lgx-tab .lgx-single-tab .author .author-info { 
+    float: right;
+}
+.lgx-schedule .lgx-tab .lgx-single-tab .author .author-info {
+    text-align: right;
+}
+.lgx-schedule .lgx-tab .lgx-single-tab .author .author-img {
+    margin-right: 0;
+    margin-left: 1.3rem;
+}
+
+.lgx-schedule .lgx-tab .lgx-single-tab .schedule-info, .lgx-schedule .lgx-tab .lgx-single-tab:hover .schedule-info {
+    text-align: right;
+}
+.lgx-schedule .lgx-tab .lgx-single-tab .time-area .time {
+    text-align: left;
+}
+
+
+/*Blog list*/
+aside .widget ul {
+    padding-right: 0;
+}
+
+.lgx-blog .lgx-card-single .content .cat-icon, 
+.lgx-blog .lgx-card-single .content .text-area {
+    float: right;
+}
+.lgx-blog .lgx-card-single .content .cat-icon span, .lgx-blog-single .lgx-card-single header .author .follow-btn {
+    border-left: 0;
+}
+
+
+/*Single Blog*/
+.lgx-blog-single .lgx-card-single header .author, .lgx-blog-single .lgx-card-single header .text-area {
+    float: right;
+}
+.lgx-blog-single .lgx-card-single section {
+    text-align: right;
+}
+.lgx-blog-single .lgx-card-single footer {
+    float: left;
+    text-align: right;
+}
+.lgx-blog-single .lgx-card-single header .author {
+    padding-left: 4.2rem;
+    text-align: left;
+    padding-right: 0;
+}
+article footer #comments #respond form label {
+    float: right;
+}
+article footer #comments .form-submit {
+    float: left;
+    margin-left: 1rem
+}
+
+
+.wpcf7 label {
+    text-align: right;
+}
+.form-control, .wpcf7-form-control {
+    text-align: right;
+}
+.wpcf7-submit {
+    text-align: center;
+}
+
+
+.lgx-slider .lgx-item-left {
+    text-align: right;
+}
+.banner-info span.typed-cursor {
+    display: none;
+}
+.lgx-contentslider .lgx-owlcontslider .owl-controls {
+    text-align: right;
+}
+
+
+.lgx-about-text {
+    text-align: right;
+}
+
+
+
+/*dropdown menu*/
+.lgx-header .dropdown-submenu>.dropdown-menu {
+    right: 158px;
+}
+
+@media (max-width: 767px) {
+    .lgx-header .dropdown-submenu>.dropdown-menu {
+        right: 0;
+    }
+}
+
+

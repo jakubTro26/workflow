@@ -1,0 +1,1008 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-01-16 11:32+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: meta-data/_group-meta-field.php:53
+msgid "List Style"
+msgstr ""
+
+#: meta-data/_group-meta-field.php:57 meta-data/_simple-meta-field.php:134
+msgid "Yes"
+msgstr ""
+
+#: meta-data/_group-meta-field.php:58
+msgid "No"
+msgstr ""
+
+#: meta-data/_simple-meta-field.php:9
+msgid "Add Custom Information"
+msgstr ""
+
+#: meta-data/_simple-meta-field.php:13
+msgid "Company Name"
+msgstr ""
+
+#: meta-data/_simple-meta-field.php:14
+msgid "Please Company Name"
+msgstr ""
+
+#: meta-data/_simple-meta-field.php:20
+msgid "Designation"
+msgstr ""
+
+#: meta-data/_simple-meta-field.php:21
+msgid "Please Add Designation"
+msgstr ""
+
+#: meta-data/_simple-meta-field.php:27
+msgid "Twitter Url"
+msgstr ""
+
+#: meta-data/_simple-meta-field.php:28
+msgid "Please Add Twitter Profile Url "
+msgstr ""
+
+#: meta-data/_simple-meta-field.php:33
+msgid "Facebook Url"
+msgstr ""
+
+#: meta-data/_simple-meta-field.php:34
+msgid "Please Add Facebook Profile Url "
+msgstr ""
+
+#: meta-data/_simple-meta-field.php:39
+msgid "Instagram Url"
+msgstr ""
+
+#: meta-data/_simple-meta-field.php:40
+msgid "Please Add Instagram Profile Url "
+msgstr ""
+
+#: meta-data/_simple-meta-field.php:45
+msgid "Linkedin Url"
+msgstr ""
+
+#: meta-data/_simple-meta-field.php:46
+msgid "Please Add Linkedin Profile Url "
+msgstr ""
+
+#: meta-data/_simple-meta-field.php:56
+msgid "Add Client Information"
+msgstr ""
+
+#: meta-data/_simple-meta-field.php:60
+msgid "Client Name"
+msgstr ""
+
+#: meta-data/_simple-meta-field.php:61
+msgid "Please Add Client Name."
+msgstr ""
+
+#: meta-data/_simple-meta-field.php:67
+msgid "Client Designation"
+msgstr ""
+
+#: meta-data/_simple-meta-field.php:68
+msgid "Please Add Client Designation"
+msgstr ""
+
+#: meta-data/_simple-meta-field.php:77
+msgid "Post Format"
+msgstr ""
+
+#: meta-data/_simple-meta-field.php:81
+msgid "Video Url"
+msgstr ""
+
+#: meta-data/_simple-meta-field.php:82
+msgid "Put youtube video embeded src here."
+msgstr ""
+
+#: meta-data/_simple-meta-field.php:87
+msgid "Audio Url"
+msgstr ""
+
+#: meta-data/_simple-meta-field.php:88
+msgid "Put soundclud embeded src here."
+msgstr ""
+
+#: meta-data/_simple-meta-field.php:93
+msgid "Quote Text"
+msgstr ""
+
+#: meta-data/_simple-meta-field.php:94
+msgid "Put quote text here."
+msgstr ""
+
+#: meta-data/_simple-meta-field.php:99
+msgid "Gallery"
+msgstr ""
+
+#: meta-data/_simple-meta-field.php:100
+msgid "Upload Gallery Images Here. Upload max 3 images accoridng to desing."
+msgstr ""
+
+#: meta-data/_simple-meta-field.php:109
+msgid "Add Schedule Information"
+msgstr ""
+
+#: meta-data/_simple-meta-field.php:113
+msgid "Time"
+msgstr ""
+
+#: meta-data/_simple-meta-field.php:114
+msgid "Please Add Time"
+msgstr ""
+
+#: meta-data/_simple-meta-field.php:120
+msgid "Select First Speaker"
+msgstr ""
+
+#: meta-data/_simple-meta-field.php:121
+msgid "Please Select First Speaker"
+msgstr ""
+
+#: meta-data/_simple-meta-field.php:128
+msgid "Show  Second Speaker"
+msgstr ""
+
+#: meta-data/_simple-meta-field.php:129
+msgid "Second Speaker in frontend."
+msgstr ""
+
+#: meta-data/_simple-meta-field.php:133
+msgid "NO"
+msgstr ""
+
+#: meta-data/_simple-meta-field.php:140
+msgid "Select Second Speaker"
+msgstr ""
+
+#: meta-data/_simple-meta-field.php:141
+msgid "Please Select Second Speaker"
+msgstr ""
+
+#: meta-data/_simple-meta-field.php:152
+msgid "Page Settings"
+msgstr ""
+
+#: meta-data/_simple-meta-field.php:156
+msgid "Header Style"
+msgstr ""
+
+#: meta-data/_simple-meta-field.php:161 vc-addons/lgx-gmap.php:152
+msgid "Default"
+msgstr ""
+
+#: meta-data/_simple-meta-field.php:162
+msgid "Banner Big"
+msgstr ""
+
+#: meta-data/_simple-meta-field.php:163
+msgid "Banner Small"
+msgstr ""
+
+#: meta-data/_simple-meta-field.php:164
+msgid "Typed"
+msgstr ""
+
+#: meta-data/_simple-meta-field.php:165
+msgid "Slider"
+msgstr ""
+
+#: meta-data/_simple-meta-field.php:166
+msgid "Content Slider"
+msgstr ""
+
+#: meta-data/_simple-meta-field.php:167
+msgid "Gradiant"
+msgstr ""
+
+#: meta-data/_simple-meta-field.php:168
+msgid "Revolution Slider"
+msgstr ""
+
+#: meta-data/_simple-meta-field.php:169
+msgid "Christmas"
+msgstr ""
+
+#: meta-data/_simple-meta-field.php:174
+msgid "Rev Slider Alias"
+msgstr ""
+
+#: meta-data/_simple-meta-field.php:179
+msgid "Select any One, Which One You want to display"
+msgstr ""
+
+#: meta-data/_simple-meta-field.php:183
+msgid "Banner Image Bottom"
+msgstr ""
+
+#: meta-data/_simple-meta-field.php:185 meta-data/_simple-meta-field.php:191
+msgid "Upload page banner"
+msgstr ""
+
+#: meta-data/_simple-meta-field.php:189
+msgid "Banner Image Top"
+msgstr ""
+
+#: meta-data/_simple-meta-field.php:195
+msgid "Banner Title"
+msgstr ""
+
+#: meta-data/_simple-meta-field.php:197
+msgid "Write page title here."
+msgstr ""
+
+#: meta-data/_simple-meta-field.php:205
+msgid "Sidebar Settings"
+msgstr ""
+
+#: meta-data/_simple-meta-field.php:210
+msgid "Sidebar Layout"
+msgstr ""
+
+#: meta-data/_simple-meta-field.php:211
+msgid "Select sidebar from here."
+msgstr ""
+
+#: meta-data/_simple-meta-field.php:216
+msgid "Left Sidebar"
+msgstr ""
+
+#: meta-data/_simple-meta-field.php:217
+msgid "Right Sidebar"
+msgstr ""
+
+#: meta-data/_simple-meta-field.php:218
+msgid "Box Layout"
+msgstr ""
+
+#: meta-data/_simple-meta-field.php:219
+msgid "Full Width"
+msgstr ""
+
+#: meta-data/_simple-meta-field.php:227
+msgid "Pricing Box Makes Recommended"
+msgstr ""
+
+#: meta-data/_simple-meta-field.php:231 meta-data/_simple-meta-field.php:277
+#: meta-data/_simple-meta-field.php:297
+msgid "Sub Title"
+msgstr ""
+
+#: meta-data/_simple-meta-field.php:232
+msgid "Please Add Sub Title"
+msgstr ""
+
+#: meta-data/_simple-meta-field.php:237
+msgid "Ticket Price"
+msgstr ""
+
+#: meta-data/_simple-meta-field.php:238
+msgid "Please Add Ticket Price ($)"
+msgstr ""
+
+#: meta-data/_simple-meta-field.php:244
+msgid "Currency Symbol"
+msgstr ""
+
+#: meta-data/_simple-meta-field.php:245
+msgid "Please Add Currency Symbol in Text"
+msgstr ""
+
+#: meta-data/_simple-meta-field.php:251
+msgid "Buy URL"
+msgstr ""
+
+#: meta-data/_simple-meta-field.php:252
+msgid "Please Add Ticket URL"
+msgstr ""
+
+#: meta-data/_simple-meta-field.php:257
+msgid "Pricing Box"
+msgstr ""
+
+#: meta-data/_simple-meta-field.php:261
+msgid "Recommended"
+msgstr ""
+
+#: meta-data/_simple-meta-field.php:262
+msgid "None"
+msgstr ""
+
+#: meta-data/_simple-meta-field.php:273
+msgid "Slider Information"
+msgstr ""
+
+#: meta-data/_simple-meta-field.php:278 meta-data/_simple-meta-field.php:284
+#: meta-data/_simple-meta-field.php:298
+msgid "Write Subtitle here."
+msgstr ""
+
+#: meta-data/_simple-meta-field.php:283
+msgid "Sub Title 2"
+msgstr ""
+
+#: meta-data/_simple-meta-field.php:293
+msgid "Slider Setings"
+msgstr ""
+
+#: meta-data/_simple-meta-field.php:302
+msgid "Left"
+msgstr ""
+
+#: meta-data/_simple-meta-field.php:303
+msgid "Right"
+msgstr ""
+
+#: meta-data/_simple-meta-field.php:304
+msgid "Center"
+msgstr ""
+
+#: post-type/lgx-gallery.php:24 post-type/lgx-gallery.php:25
+msgctxt "Gallery"
+msgid "Gallery"
+msgstr ""
+
+#: post-type/lgx-gallery.php:26 vc-addons/lgx-photo-gallery.php:95
+msgid "Photo Gallery"
+msgstr ""
+
+#: post-type/lgx-gallery.php:27
+msgid "Parent Gallery:"
+msgstr ""
+
+#: post-type/lgx-gallery.php:28
+msgid "All Gallery"
+msgstr ""
+
+#: post-type/lgx-gallery.php:29
+msgid "View Gallery"
+msgstr ""
+
+#: post-type/lgx-gallery.php:30
+msgid "Add New Gallery"
+msgstr ""
+
+#: post-type/lgx-gallery.php:31 post-type/lgx-pricing.php:30
+#: post-type/lgx-schedule.php:31 post-type/lgx-slider.php:30
+#: post-type/lgx-speaker.php:30 post-type/lgx-testimonial.php:30
+msgid "Add New"
+msgstr ""
+
+#: post-type/lgx-gallery.php:32
+msgid "Edit Gallery"
+msgstr ""
+
+#: post-type/lgx-gallery.php:33
+msgid "Update Gallery"
+msgstr ""
+
+#: post-type/lgx-gallery.php:34
+msgid "Search Gallery"
+msgstr ""
+
+#: post-type/lgx-gallery.php:35 post-type/lgx-schedule.php:35
+#: post-type/lgx-testimonial.php:34
+msgid "No article found"
+msgstr ""
+
+#: post-type/lgx-gallery.php:36 post-type/lgx-schedule.php:36
+#: post-type/lgx-testimonial.php:35
+msgid "No article found in Trash"
+msgstr ""
+
+#: post-type/lgx-pricing.php:23 post-type/lgx-pricing.php:24
+msgctxt "Pricing"
+msgid "Pricing"
+msgstr ""
+
+#: post-type/lgx-pricing.php:26
+msgid "Parent Pricing:"
+msgstr ""
+
+#: post-type/lgx-pricing.php:27
+msgid "All Pricing"
+msgstr ""
+
+#: post-type/lgx-pricing.php:28
+msgid "View Pricing"
+msgstr ""
+
+#: post-type/lgx-pricing.php:29
+msgid "Add New Pricing"
+msgstr ""
+
+#: post-type/lgx-pricing.php:31
+msgid "Edit Pricing"
+msgstr ""
+
+#: post-type/lgx-pricing.php:32
+msgid "Update Pricing"
+msgstr ""
+
+#: post-type/lgx-pricing.php:33
+msgid "Search Pricing"
+msgstr ""
+
+#: post-type/lgx-pricing.php:34
+msgid "No Pricing found"
+msgstr ""
+
+#: post-type/lgx-pricing.php:35
+msgid "No Pricing found in Trash"
+msgstr ""
+
+#: post-type/lgx-pricing.php:66 post-type/lgx-schedule.php:67
+msgctxt "Category"
+msgid "Categories"
+msgstr ""
+
+#: post-type/lgx-pricing.php:67 post-type/lgx-schedule.php:68
+msgctxt "Category"
+msgid "Category"
+msgstr ""
+
+#: post-type/lgx-pricing.php:68 post-type/lgx-schedule.php:69
+msgid "Search Category"
+msgstr ""
+
+#: post-type/lgx-pricing.php:69 post-type/lgx-schedule.php:70
+msgid "All Category"
+msgstr ""
+
+#: post-type/lgx-pricing.php:70 post-type/lgx-schedule.php:71
+msgid "Parent Category"
+msgstr ""
+
+#: post-type/lgx-pricing.php:71 post-type/lgx-schedule.php:72
+msgid "Parent Category:"
+msgstr ""
+
+#: post-type/lgx-pricing.php:72 post-type/lgx-schedule.php:73
+msgid "Edit Category"
+msgstr ""
+
+#: post-type/lgx-pricing.php:73 post-type/lgx-schedule.php:74
+msgid "Update Category"
+msgstr ""
+
+#: post-type/lgx-pricing.php:74 post-type/lgx-schedule.php:75
+msgid "Add New Category"
+msgstr ""
+
+#: post-type/lgx-pricing.php:75 post-type/lgx-schedule.php:76
+msgid "New Category Name"
+msgstr ""
+
+#: post-type/lgx-pricing.php:76 post-type/lgx-schedule.php:77
+msgid "Categories"
+msgstr ""
+
+#: post-type/lgx-schedule.php:24 post-type/lgx-schedule.php:25
+msgctxt "Schedule"
+msgid "Schedule"
+msgstr ""
+
+#: post-type/lgx-schedule.php:27
+msgid "Parent Schedule:"
+msgstr ""
+
+#: post-type/lgx-schedule.php:28
+msgid "All Schedule"
+msgstr ""
+
+#: post-type/lgx-schedule.php:29
+msgid "View Schedule"
+msgstr ""
+
+#: post-type/lgx-schedule.php:30
+msgid "Add New Schedule"
+msgstr ""
+
+#: post-type/lgx-schedule.php:32
+msgid "Edit Schedule"
+msgstr ""
+
+#: post-type/lgx-schedule.php:33
+msgid "Update Schedule"
+msgstr ""
+
+#: post-type/lgx-schedule.php:34
+msgid "Search Schedule"
+msgstr ""
+
+#: post-type/lgx-slider.php:24 post-type/lgx-slider.php:25
+#: post-type/lgx-slider.php:27
+msgctxt "Slider"
+msgid "Slider"
+msgstr ""
+
+#: post-type/lgx-slider.php:26
+msgctxt "Slider"
+msgid "Sliders"
+msgstr ""
+
+#: post-type/lgx-slider.php:28
+msgctxt "Slider"
+msgid "Add New"
+msgstr ""
+
+#: post-type/lgx-slider.php:29
+msgid "Add New Slider"
+msgstr ""
+
+#: post-type/lgx-slider.php:31
+msgid "Edit Slider"
+msgstr ""
+
+#: post-type/lgx-slider.php:32
+msgid "View Slider"
+msgstr ""
+
+#: post-type/lgx-slider.php:33
+msgid "All Slider"
+msgstr ""
+
+#: post-type/lgx-slider.php:34
+msgid "Search Slider"
+msgstr ""
+
+#: post-type/lgx-slider.php:35
+msgid "Parent Slider:"
+msgstr ""
+
+#: post-type/lgx-slider.php:36
+msgid "No Slider found."
+msgstr ""
+
+#: post-type/lgx-slider.php:37
+msgid "No Slider found in Trash."
+msgstr ""
+
+#: post-type/lgx-slider.php:42 post-type/lgx-speaker.php:42
+msgid "Description."
+msgstr ""
+
+#: post-type/lgx-speaker.php:24 post-type/lgx-speaker.php:25
+#: post-type/lgx-speaker.php:27
+msgctxt "Speaker"
+msgid "Speaker"
+msgstr ""
+
+#: post-type/lgx-speaker.php:26
+msgctxt "Speaker"
+msgid "Speakers"
+msgstr ""
+
+#: post-type/lgx-speaker.php:28
+msgctxt "Speaker"
+msgid "Add New"
+msgstr ""
+
+#: post-type/lgx-speaker.php:29
+msgid "Add New Speaker"
+msgstr ""
+
+#: post-type/lgx-speaker.php:31
+msgid "Edit Speaker"
+msgstr ""
+
+#: post-type/lgx-speaker.php:32
+msgid "View Speaker"
+msgstr ""
+
+#: post-type/lgx-speaker.php:33
+msgid "All Speaker"
+msgstr ""
+
+#: post-type/lgx-speaker.php:34
+msgid "Search Speaker"
+msgstr ""
+
+#: post-type/lgx-speaker.php:35
+msgid "Parent Speaker:"
+msgstr ""
+
+#: post-type/lgx-speaker.php:36
+msgid "No Speaker found."
+msgstr ""
+
+#: post-type/lgx-speaker.php:37
+msgid "No Speaker found in Trash."
+msgstr ""
+
+#: post-type/lgx-testimonial.php:23 post-type/lgx-testimonial.php:24
+msgctxt "Testimonial"
+msgid "Testimonial"
+msgstr ""
+
+#: post-type/lgx-testimonial.php:25 vc-addons/lgx-testimonial.php:99
+msgid "Testimonial"
+msgstr ""
+
+#: post-type/lgx-testimonial.php:26
+msgid "Parent Testimonial:"
+msgstr ""
+
+#: post-type/lgx-testimonial.php:27
+msgid "All Testimonial"
+msgstr ""
+
+#: post-type/lgx-testimonial.php:28
+msgid "View Testimonial"
+msgstr ""
+
+#: post-type/lgx-testimonial.php:29
+msgid "Add New Testimonial"
+msgstr ""
+
+#: post-type/lgx-testimonial.php:31
+msgid "Edit Testimonial"
+msgstr ""
+
+#: post-type/lgx-testimonial.php:32
+msgid "Update Testimonial"
+msgstr ""
+
+#: post-type/lgx-testimonial.php:33
+msgid "Search Testimonial"
+msgstr ""
+
+#: vc-addons/lgx-about.php:19 vc-addons/lgx-get-ticket.php:104
+msgid "Buy Ticket"
+msgstr ""
+
+#: vc-addons/lgx-about.php:20
+msgid "Read More"
+msgstr ""
+
+#: vc-addons/lgx-about.php:58
+msgid "About Section"
+msgstr ""
+
+#: vc-addons/lgx-about.php:61
+msgid "Display About Section from Page."
+msgstr ""
+
+#: vc-addons/lgx-about.php:62 vc-addons/lgx-address.php:55
+#: vc-addons/lgx-brand-btn.php:44 vc-addons/lgx-countdown.php:44
+#: vc-addons/lgx-get-ticket.php:132 vc-addons/lgx-gmap.php:101
+#: vc-addons/lgx-latest-news.php:135 vc-addons/lgx-photo-gallery.php:100
+#: vc-addons/lgx-pricing-2.php:54 vc-addons/lgx-schedule.php:179
+#: vc-addons/lgx-sponsors.php:63 vc-addons/lgx-testimonial.php:104
+#: vc-addons/lgx-title-2.php:41 vc-addons/lgx-title.php:48
+#: vc-addons/lgx-travel-info.php:54 vc-addons/lgx-video-embed.php:89
+msgid "Event Point"
+msgstr ""
+
+#: vc-addons/lgx-about.php:68 vc-addons/lgx-title-2.php:46
+#: vc-addons/lgx-title.php:43 vc-addons/lgx-title.php:53
+#: vc-addons/lgx-title.php:67
+msgid "Section Title"
+msgstr ""
+
+#: vc-addons/lgx-about.php:70
+msgid "Leav bank if don't want to show."
+msgstr ""
+
+#: vc-addons/lgx-about.php:76
+msgid "Section Lead Text"
+msgstr ""
+
+#: vc-addons/lgx-about.php:82
+msgid "Section Short Content"
+msgstr ""
+
+#: vc-addons/lgx-about.php:84
+msgid "Write section short description here."
+msgstr ""
+
+#: vc-addons/lgx-about.php:90
+msgid "Left Button URL"
+msgstr ""
+
+#: vc-addons/lgx-about.php:96
+msgid "Left Button Text"
+msgstr ""
+
+#: vc-addons/lgx-about.php:102
+msgid "Right Button URL"
+msgstr ""
+
+#: vc-addons/lgx-about.php:108
+msgid "Right Button Text"
+msgstr ""
+
+#: vc-addons/lgx-address.php:50
+msgid "Contact Address"
+msgstr ""
+
+#: vc-addons/lgx-address.php:54
+msgid "Display Address for Contact Page"
+msgstr ""
+
+#: vc-addons/lgx-address.php:59
+msgid "Address Title"
+msgstr ""
+
+#: vc-addons/lgx-address.php:64
+msgid "Add Address Info"
+msgstr ""
+
+#: vc-addons/lgx-address.php:72
+msgid "Address Info"
+msgstr ""
+
+#: vc-addons/lgx-brand-btn.php:39
+msgid "Brand Button"
+msgstr ""
+
+#: vc-addons/lgx-brand-btn.php:43
+msgid "Add Brand Button"
+msgstr ""
+
+#: vc-addons/lgx-brand-btn.php:49
+msgid "Text"
+msgstr ""
+
+#: vc-addons/lgx-brand-btn.php:56 vc-addons/lgx-sponsors.php:86
+msgid "URL"
+msgstr ""
+
+#: vc-addons/lgx-brand-btn.php:62
+msgid "Type"
+msgstr ""
+
+#: vc-addons/lgx-brand-btn.php:69
+msgid "Target Type"
+msgstr ""
+
+#: vc-addons/lgx-countdown.php:39
+msgid "Cicrcle Countdown"
+msgstr ""
+
+#: vc-addons/lgx-countdown.php:43
+msgid "Display Cicrcle Countdown"
+msgstr ""
+
+#: vc-addons/lgx-countdown.php:49
+msgid "Input Date"
+msgstr ""
+
+#: vc-addons/lgx-get-ticket.php:127
+msgid "Register/ Ticket"
+msgstr ""
+
+#: vc-addons/lgx-get-ticket.php:131
+msgid "Register or Ticket"
+msgstr ""
+
+#: vc-addons/lgx-get-ticket.php:138
+msgid "Number of items in Per Row"
+msgstr ""
+
+#: vc-addons/lgx-get-ticket.php:144
+msgid "Add Category Slug"
+msgstr ""
+
+#: vc-addons/lgx-get-ticket.php:151 vc-addons/lgx-latest-news.php:153
+#: vc-addons/lgx-photo-gallery.php:112 vc-addons/lgx-schedule.php:190
+msgid "OderBy"
+msgstr ""
+
+#: vc-addons/lgx-get-ticket.php:158 vc-addons/lgx-latest-news.php:160
+#: vc-addons/lgx-photo-gallery.php:119 vc-addons/lgx-schedule.php:184
+#: vc-addons/lgx-testimonial.php:115
+msgid "Order"
+msgstr ""
+
+#: vc-addons/lgx-gmap.php:96
+msgid "LGX Map"
+msgstr ""
+
+#: vc-addons/lgx-gmap.php:100
+msgid "Display LGX Map"
+msgstr ""
+
+#: vc-addons/lgx-gmap.php:106
+msgid "Latitude"
+msgstr ""
+
+#: vc-addons/lgx-gmap.php:113
+msgid "Longitude"
+msgstr ""
+
+#: vc-addons/lgx-gmap.php:121
+msgid "Zoom"
+msgstr ""
+
+#: vc-addons/lgx-gmap.php:129
+msgid "PopUp Title"
+msgstr ""
+
+#: vc-addons/lgx-gmap.php:136
+msgid "PopUp Text"
+msgstr ""
+
+#: vc-addons/lgx-gmap.php:143
+msgid "Map Icon"
+msgstr ""
+
+#: vc-addons/lgx-gmap.php:149
+msgid "Map Style"
+msgstr ""
+
+#: vc-addons/lgx-gmap.php:153
+msgid "Dark"
+msgstr ""
+
+#: vc-addons/lgx-latest-news.php:130
+msgid "Latest News"
+msgstr ""
+
+#: vc-addons/lgx-latest-news.php:134
+msgid "Display Latest News."
+msgstr ""
+
+#: vc-addons/lgx-latest-news.php:139
+msgid "Category Filter"
+msgstr ""
+
+#: vc-addons/lgx-latest-news.php:146 vc-addons/lgx-photo-gallery.php:105
+msgid "Number of items"
+msgstr ""
+
+#: vc-addons/lgx-photo-gallery.php:99
+msgid "Display Photo Gallery"
+msgstr ""
+
+#: vc-addons/lgx-pricing-2.php:49
+msgid "pricing_2 Info"
+msgstr ""
+
+#: vc-addons/lgx-pricing-2.php:53
+msgid "Display all of the pricing_2 Information"
+msgstr ""
+
+#: vc-addons/lgx-pricing-2.php:58 vc-addons/lgx-sponsors.php:80
+#: vc-addons/lgx-travel-info.php:58
+msgid "Upload Image"
+msgstr ""
+
+#: vc-addons/lgx-pricing-2.php:64 vc-addons/lgx-travel-info.php:64
+msgid "Title"
+msgstr ""
+
+#: vc-addons/lgx-pricing-2.php:70 vc-addons/lgx-travel-info.php:70
+msgid "Alignment"
+msgstr ""
+
+#: vc-addons/lgx-pricing-2.php:78 vc-addons/lgx-travel-info.php:78
+msgid "Content"
+msgstr ""
+
+#: vc-addons/lgx-schedule.php:175
+msgid "Schedule Section"
+msgstr ""
+
+#: vc-addons/lgx-schedule.php:178
+msgid "Display all Schedule"
+msgstr ""
+
+#: vc-addons/lgx-sponsors.php:58
+msgid "Sponsors"
+msgstr ""
+
+#: vc-addons/lgx-sponsors.php:62
+msgid "Display Sponsors"
+msgstr ""
+
+#: vc-addons/lgx-sponsors.php:67
+msgid "Sponsor Title"
+msgstr ""
+
+#: vc-addons/lgx-sponsors.php:72
+msgid "Add Sponsors Image"
+msgstr ""
+
+#: vc-addons/lgx-testimonial.php:103
+msgid "Display Testimonial"
+msgstr ""
+
+#: vc-addons/lgx-testimonial.php:109
+msgid "Testimonial Limit"
+msgstr ""
+
+#: vc-addons/lgx-testimonial.php:122
+msgid "Order By"
+msgstr ""
+
+#: vc-addons/lgx-title-2.php:36
+msgid "Section Title 2"
+msgstr ""
+
+#: vc-addons/lgx-title-2.php:40 vc-addons/lgx-title.php:47
+msgid "Display Section Title"
+msgstr ""
+
+#: vc-addons/lgx-title.php:60
+msgid "Section Sub  Title"
+msgstr ""
+
+#: vc-addons/lgx-title.php:74
+msgid "Title color"
+msgstr ""
+
+#: vc-addons/lgx-travel-info.php:49
+msgid "Travel Info"
+msgstr ""
+
+#: vc-addons/lgx-travel-info.php:53
+msgid "Display all of the Travel Information"
+msgstr ""
+
+#: vc-addons/lgx-video-embed.php:55
+msgid "Close"
+msgstr ""
+
+#: vc-addons/lgx-video-embed.php:84
+msgid "Video Section"
+msgstr ""
+
+#: vc-addons/lgx-video-embed.php:88
+msgid "Display Youtube Video"
+msgstr ""
+
+#: vc-addons/lgx-video-embed.php:94
+msgid "Youtube Video ID"
+msgstr ""
+
+#: vc-addons/lgx-video-embed.php:95
+msgid "Please add Youtube Video ID"
+msgstr ""
+
+#: vc-addons/lgx-video-embed.php:102
+msgid "Upload Background Image"
+msgstr ""
+
+#: vc-addons/lgx-video-embed.php:109
+msgid "Top Padding in REM"
+msgstr ""
+
+#: vc-addons/lgx-video-embed.php:117
+msgid "Bottom Padding in REM"
+msgstr ""
+
+#. Name of the plugin
+msgid "LGX Themential"
+msgstr ""
+
+#. Description of the plugin
+msgid "LGX Themential is Core required plugin for this theme."
+msgstr ""
+
+#. URI of the plugin
+msgid "http://themearth.com/lgx-themential"
+msgstr ""
+
+#. Author of the plugin
+msgid "LogicHunt"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://logichunt.com"
+msgstr ""

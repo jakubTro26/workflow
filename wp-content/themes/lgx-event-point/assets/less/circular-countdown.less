@@ -1,0 +1,73 @@
+#lgx-circular {
+
+   canvas {
+     display: inline-block;
+   }
+
+
+ }
+
+.circular-inner {
+  width: 100%;
+  .time_circles > div > span {
+    font-family: @lgx-heading-font;
+    .font-size(68);
+    font-weight: 700;
+  }
+  .time_circles > div > h4 {
+    font-family: @lgx-base-font;
+    .font-size(26);
+    font-weight: 400;
+    text-transform: uppercase;
+    line-height: 3rem !important;
+  }
+}
+
+#circular-countdown .time_circles > div {
+  padding-left: 3rem;
+  top: 30% !important;
+}
+
+
+@media (max-width : @screen-sm-max) {
+  /************** 991 GLOBAl USE***********/
+  #circular-countdown .time_circles > div {
+    top: 25% !important;
+  }
+}
+
+@media (max-width : @screen-xs-max) {
+/************** 767 GLOBAl USE***********/
+  #circular-countdown .time_circles > div {
+    top: 22% !important;
+  }
+}
+
+@media (max-width : 580px) {
+  /************** 580 GLOBAl USE***********/
+  #circular-countdown .time_circles > div {
+    top: 18% !important;
+  }
+  .circular-inner .time_circles > div > h4 {
+    line-height: 2rem !important;
+  }
+}
+
+@media (max-width : 420px) {
+  /************** 420 GLOBAl USE***********/
+  #circular-countdown .time_circles > div {
+    top: 20% !important;
+  }
+  .circular-inner .time_circles > div > h4 {
+    line-height: 1rem !important;
+  }
+}
+
+@media (max-width : 360px) {
+  /************** 360 GLOBAl USE***********/
+  .circular-inner .time_circles > div > h4 {
+    line-height: 0 !important;
+  }
+}
+
+

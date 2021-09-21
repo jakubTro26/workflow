@@ -1,0 +1,4358 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: LGX Themential v1.6.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2018-01-12 18:41:40+0000\n"
+"Last-Translator: admin <sd@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../../../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: lib/redux/core/enqueue.php:452
+#: lib/redux/inc/extensions/customizer/extension_customizer.php:689
+#@ redux-framework
+msgid "You have changes that are not saved. Would you like to save them now?"
+msgstr ""
+
+#: lib/redux/core/enqueue.php:460
+#: lib/redux/inc/extensions/customizer/extension_customizer.php:690
+#@ redux-framework
+msgid "Are you sure? Resetting will lose all custom values."
+msgstr ""
+
+#: lib/redux/core/enqueue.php:468
+#@ redux-framework
+msgid "Are you sure? Resetting will lose all custom values in this section."
+msgstr ""
+
+#: lib/redux/core/enqueue.php:476
+#: lib/redux/inc/extensions/customizer/extension_customizer.php:691
+#@ redux-framework
+msgid "Your current options will be replaced with the values of this preset. Would you like to proceed?"
+msgstr ""
+
+#: lib/redux/core/enqueue.php:483
+#@ redux-framework
+msgid "Please Wait"
+msgstr ""
+
+#: lib/redux/core/enqueue.php:494
+#@ redux-framework
+msgid "There was an error saving. Here is the result of your action:"
+msgstr ""
+
+#: lib/redux/core/enqueue.php:495
+#@ redux-framework
+msgid "There was a problem with your action. Please try again or reload the page."
+msgstr ""
+
+#: lib/redux/core/panel.php:65
+#@ redux-framework
+msgid "Warning- This options panel will not work properly without javascript!"
+msgstr ""
+
+#: lib/redux/core/panel.php:141
+#@ redux-framework
+msgid "Settings Imported!"
+msgstr ""
+
+#: lib/redux/core/panel.php:156
+#@ redux-framework
+msgid "All Defaults Restored!"
+msgstr ""
+
+#: lib/redux/core/panel.php:170
+#@ redux-framework
+msgid "Section Defaults Restored!"
+msgstr ""
+
+#: lib/redux/core/panel.php:184
+#@ redux-framework
+msgid "Settings Saved!"
+msgstr ""
+
+#: lib/redux/core/panel.php:204
+#@ redux-framework
+msgid "Settings have changed, you should save them!"
+msgstr ""
+
+#: lib/redux/core/panel.php:212
+#@ redux-framework
+msgid "error(s) were found!"
+msgstr ""
+
+#: lib/redux/core/panel.php:220
+#@ redux-framework
+msgid "warning(s) were found!"
+msgstr ""
+
+#: lib/redux/core/panel.php:312
+#@ redux-framework
+msgid "<strong>Your panel has bundled outdated copies of Redux Framework template files</strong> &#8211; if you encounter functionality issues this could be the reason. Ensure you update or remove them."
+msgstr ""
+
+#: lib/redux/framework.php:220
+#, php-format
+#@ redux-framework
+msgid "Options panel created using %1$s"
+msgstr ""
+
+#: lib/redux/framework.php:220
+#: lib/redux/inc/welcome/welcome.php:205
+#@ redux-framework
+msgid "Redux Framework"
+msgstr ""
+
+#: lib/redux/framework.php:224
+#: lib/redux/framework.php:228
+#@ redux-framework
+msgid "Options"
+msgstr ""
+
+#: lib/redux/framework.php:1765
+#@ redux-framework
+msgid "Enable"
+msgstr ""
+
+#: lib/redux/framework.php:1770
+#@ redux-framework
+msgid "Disable"
+msgstr ""
+
+#: lib/redux/framework.php:1776
+#@ redux-framework
+msgid "moving the mouse over"
+msgstr ""
+
+#: lib/redux/framework.php:1778
+#@ redux-framework
+msgid "clicking"
+msgstr ""
+
+#: lib/redux/framework.php:1782
+#, php-format
+#@ redux-framework
+msgid "Hints are tooltips that popup when %d the hint icon, offering addition information about the field in which they appear.  They can be %d d by using the link below."
+msgstr ""
+
+#: lib/redux/framework.php:1787
+#@ redux-framework
+msgid "Hints"
+msgstr ""
+
+#: lib/redux/framework.php:1914
+#: meta-data/cmb2/includes/CMB2_JS.php:100
+#: meta-data/_simple-meta-field.php:161
+#: vc-addons/lgx-gmap.php:152
+#@ redux-framework
+#@ cmb2
+#@ lgx-themential
+msgid "Default"
+msgstr ""
+
+#: lib/redux/framework.php:2794
+#@ redux-framework
+msgid "Invalid security credential.  Please reload the page and try again."
+msgstr ""
+
+#: lib/redux/framework.php:2803
+#@ redux-framework
+msgid "Invalid user capability.  Please reload the page and try again."
+msgstr ""
+
+#: lib/redux/framework.php:2883
+#@ redux-framework
+msgid "Your panel has no fields. Nothing to save."
+msgstr ""
+
+#: lib/redux/framework.php:4003
+#@ redux-framework
+msgid "<strong>Redux Framework Notice: </strong>There are references to the Redux Framework support site in your config's <code>admin_bar_links</code> argument.  This is sample data.  Please change or remove this data before shipping your product."
+msgstr ""
+
+#: lib/redux/framework.php:4018
+#@ redux-framework
+msgid "<strong>Redux Framework Notice: </strong>There are references to the Redux Framework support site in your config's <code>share_icons</code> argument.  This is sample data.  Please change or remove this data before shipping your product."
+msgstr ""
+
+#: lib/redux/inc/class.redux_admin_notices.php:97
+#@ redux-framework
+msgid "Dismiss"
+msgstr ""
+
+#: lib/redux/inc/class.redux_cdn.php:74
+#@ redux-framework
+msgid "Please wait a few minutes, then try refreshing the page. Unable to load some remotely hosted scripts."
+msgstr ""
+
+#: lib/redux/inc/class.redux_cdn.php:76
+#, php-format
+#@ redux-framework
+msgid "If you are developing offline, please download and install the <a href=\"%s\" target=\"_blank\">Redux Vendor Support</a> plugin/extension to bypass the our CDN and avoid this warning"
+msgstr ""
+
+#: lib/redux/inc/class.redux_cdn.php:81
+#@ redux-framework
+msgid "Redux Framework Warning"
+msgstr ""
+
+#: lib/redux/inc/class.redux_cdn.php:81
+#, php-format
+#@ redux-framework
+msgid "%s CDN unavailable.  Some controls may not render properly."
+msgstr ""
+
+#: lib/redux/inc/class.redux_cdn.php:113
+#, php-format
+#@ redux-framework
+msgid "The <a href=\"%s\">Vendor Support plugin</a> (or extension) is either not installed or not activated and thus, some controls may not render properly.  Please ensure that it is installed and <a href=\"%s\">activated</a>"
+msgstr ""
+
+#: lib/redux/inc/class.redux_filesystem.php:31
+#: lib/redux/inc/class.redux_filesystem.php:60
+#: lib/redux/inc/class.redux_filesystem.php:272
+#@ redux-framework
+msgid "File Permission Issues"
+msgstr ""
+
+#: lib/redux/inc/class.redux_filesystem.php:31
+#, php-format
+#@ redux-framework
+msgid "We were unable to modify required files. Please check your permissions, or modify your wp-config.php file to contain your FTP login credentials as <a href=\"%s\" target=\"_blank\">outlined here</a>."
+msgstr ""
+
+#: lib/redux/inc/class.redux_filesystem.php:60
+#: lib/redux/inc/class.redux_filesystem.php:272
+#, php-format
+#@ redux-framework
+msgid "We were unable to modify required files. Please ensure that <code>%1s</code> has the proper read-write permissions, or modify your wp-config.php file to contain your FTP login credentials as <a href=\"%2s\" target=\"_blank\">outlined here</a>."
+msgstr ""
+
+#: lib/redux/inc/class.redux_helpers.php:612
+#, php-format
+#@ redux-framework
+msgid "<code>%s</code> version <strong style=\"color:red\">%s</strong> is out of date. The core version is %s"
+msgstr ""
+
+#: lib/redux/inc/extensions/customizer/extension_customizer.php:724
+#@ redux-framework
+msgid "You have changes that are not saved.  Would you like to save them now?"
+msgstr ""
+
+#: lib/redux/inc/extensions/customizer/extension_customizer.php:725
+#@ redux-framework
+msgid "Are you sure?  Resetting will lose all custom values."
+msgstr ""
+
+#: lib/redux/inc/extensions/customizer/extension_customizer.php:726
+#@ redux-framework
+msgid "Your current options will be replaced with the values of this preset.  Would you like to proceed?"
+msgstr ""
+
+#: lib/redux/inc/extensions/customizer/inc/customizer_panel.php:89
+#@ redux-framework
+msgid "Press return or enter to open this panel"
+msgstr ""
+
+#. translators: %s is the site/panel title in the Customizer
+#: lib/redux/inc/extensions/customizer/inc/customizer_panel.php:114
+#: lib/redux/inc/extensions/customizer/inc/customizer_panel.php:142
+#, php-format
+#@ redux-framework
+msgid "You are customizing %s"
+msgstr ""
+
+#: lib/redux/inc/extensions/customizer/inc/customizer_panel.php:138
+#: lib/redux/inc/extensions/customizer/inc/customizer_section.php:79
+#@ redux-framework
+msgid "Back"
+msgstr ""
+
+#: lib/redux/inc/extensions/customizer/inc/customizer_panel.php:146
+#@ redux-framework
+msgid "Help"
+msgstr ""
+
+#: lib/redux/inc/extensions/customizer/inc/customizer_section.php:72
+#@ redux-framework
+msgid "Press return or enter to open"
+msgstr ""
+
+#: lib/redux/inc/extensions/customizer/inc/customizer_section.php:122
+#@ redux-framework
+msgid "Press return or enter to expand"
+msgstr ""
+
+#: lib/redux/inc/extensions/import_export/extension_import_export.php:120
+#@ redux-framework
+msgid "Import / Export"
+msgstr ""
+
+#: lib/redux/inc/extensions/import_export/import_export/field_import_export.php:91
+#@ redux-framework
+msgid "Import Options"
+msgstr ""
+
+#: lib/redux/inc/extensions/import_export/import_export/field_import_export.php:95
+#@ redux-framework
+msgid "Import from File"
+msgstr ""
+
+#: lib/redux/inc/extensions/import_export/import_export/field_import_export.php:98
+#@ redux-framework
+msgid "Import from URL"
+msgstr ""
+
+#: lib/redux/inc/extensions/import_export/import_export/field_import_export.php:104
+#@ redux-framework
+msgid "Input your backup file below and hit Import to restore your sites options from a backup."
+msgstr ""
+
+#: lib/redux/inc/extensions/import_export/import_export/field_import_export.php:111
+#@ redux-framework
+msgid "Input the URL to another sites options set and hit Import to load the options from that site."
+msgstr ""
+
+#: lib/redux/inc/extensions/import_export/import_export/field_import_export.php:116
+#@ redux-framework
+msgid "Import"
+msgstr ""
+
+#: lib/redux/inc/extensions/import_export/import_export/field_import_export.php:116
+#@ redux-framework
+msgid "WARNING! This will overwrite all existing option values, please proceed with caution!"
+msgstr ""
+
+#: lib/redux/inc/extensions/import_export/import_export/field_import_export.php:120
+#@ redux-framework
+msgid "Export Options"
+msgstr ""
+
+#: lib/redux/inc/extensions/import_export/import_export/field_import_export.php:124
+#@ redux-framework
+msgid "Here you can copy/download your current option settings. Keep this safe as you can use it as a backup should anything go wrong, or you can use it to restore your settings on this site (or any other site)."
+msgstr ""
+
+#: lib/redux/inc/extensions/import_export/import_export/field_import_export.php:132
+#@ redux-framework
+msgid "Copy Data"
+msgstr ""
+
+#: lib/redux/inc/extensions/import_export/import_export/field_import_export.php:133
+#@ redux-framework
+msgid "Download Data File"
+msgstr ""
+
+#: lib/redux/inc/extensions/import_export/import_export/field_import_export.php:134
+#@ redux-framework
+msgid "Copy Export URL"
+msgstr ""
+
+#: lib/redux/inc/extensions/options_object/extension_options_object.php:82
+#: lib/redux/inc/extensions/options_object/options_object/field_options_object.php:104
+#@ redux-framework
+msgid "Options Object"
+msgstr ""
+
+#: lib/redux/inc/extensions/options_object/options_object/field_options_object.php:107
+#@ redux-framework
+msgid "Show Object in Javascript Console Object"
+msgstr ""
+
+#: lib/redux/inc/fields/background/field_background.php:124
+#: lib/redux/inc/fields/color/field_color.php:73
+#: lib/redux/inc/fields/color_gradient/field_color_gradient.php:79
+#: lib/redux/inc/fields/color_gradient/field_color_gradient.php:91
+#@ redux-framework
+msgid "Transparent"
+msgstr ""
+
+#: lib/redux/inc/fields/background/field_background.php:141
+#@ redux-framework
+msgid "Background Repeat"
+msgstr ""
+
+#: lib/redux/inc/fields/background/field_background.php:157
+#@ redux-framework
+msgid "Background Clip"
+msgstr ""
+
+#: lib/redux/inc/fields/background/field_background.php:173
+#@ redux-framework
+msgid "Background Origin"
+msgstr ""
+
+#: lib/redux/inc/fields/background/field_background.php:188
+#@ redux-framework
+msgid "Background Size"
+msgstr ""
+
+#: lib/redux/inc/fields/background/field_background.php:203
+#@ redux-framework
+msgid "Background Attachment"
+msgstr ""
+
+#: lib/redux/inc/fields/background/field_background.php:223
+#@ redux-framework
+msgid "Background Position"
+msgstr ""
+
+#: lib/redux/inc/fields/background/field_background.php:277
+#: lib/redux/inc/fields/media/field_media.php:149
+#@ redux-framework
+msgid "No media selected"
+msgstr ""
+
+#: lib/redux/inc/fields/background/field_background.php:314
+#: lib/redux/inc/fields/media/field_media.php:198
+#: lib/redux/inc/fields/slides/field_slides.php:126
+#: lib/redux/inc/fields/slides/field_slides.php:188
+#@ redux-framework
+msgid "Upload"
+msgstr ""
+
+#: lib/redux/inc/fields/background/field_background.php:321
+#: lib/redux/inc/fields/media/field_media.php:205
+#: lib/redux/inc/fields/multi_text/field_multi_text.php:72
+#: lib/redux/inc/fields/multi_text/field_multi_text.php:79
+#: lib/redux/inc/fields/multi_text/field_multi_text.php:89
+#: lib/redux/inc/fields/slides/field_slides.php:133
+#: lib/redux/inc/fields/slides/field_slides.php:190
+#: meta-data/cmb2/includes/CMB2_JS.php:157
+#: meta-data/cmb2/includes/CMB2_Types.php:392
+#: meta-data/cmb2/includes/types/CMB2_Type_File_Base.php:80
+#@ redux-framework
+#@ cmb2
+msgid "Remove"
+msgstr ""
+
+#: lib/redux/inc/fields/border/field_border.php:125
+#: lib/redux/inc/fields/spacing/field_spacing.php:191
+#@ redux-framework
+msgid "All"
+msgstr ""
+
+#: lib/redux/inc/fields/border/field_border.php:138
+#: lib/redux/inc/fields/spacing/field_spacing.php:215
+#@ redux-framework
+msgid "Top"
+msgstr ""
+
+#: lib/redux/inc/fields/border/field_border.php:145
+#: lib/redux/inc/fields/spacing/field_spacing.php:222
+#: meta-data/_simple-meta-field.php:303
+#@ redux-framework
+#@ lgx-themential
+msgid "Right"
+msgstr ""
+
+#: lib/redux/inc/fields/border/field_border.php:152
+#: lib/redux/inc/fields/spacing/field_spacing.php:229
+#@ redux-framework
+msgid "Bottom"
+msgstr ""
+
+#: lib/redux/inc/fields/border/field_border.php:159
+#: lib/redux/inc/fields/spacing/field_spacing.php:236
+#: meta-data/_simple-meta-field.php:302
+#@ redux-framework
+#@ lgx-themential
+msgid "Left"
+msgstr ""
+
+#: lib/redux/inc/fields/border/field_border.php:174
+#@ redux-framework
+msgid "Border style"
+msgstr ""
+
+#: lib/redux/inc/fields/color_gradient/field_color_gradient.php:68
+#@ redux-framework
+msgid "From "
+msgstr ""
+
+#: lib/redux/inc/fields/color_gradient/field_color_gradient.php:82
+#@ redux-framework
+msgid "To "
+msgstr ""
+
+#: lib/redux/inc/fields/color_rgba/field_color_rgba.php:71
+#@ redux-framework
+msgid "Choose"
+msgstr ""
+
+#: lib/redux/inc/fields/color_rgba/field_color_rgba.php:72
+#@ redux-framework
+msgid "Cancel"
+msgstr ""
+
+#: lib/redux/inc/fields/color_rgba/field_color_rgba.php:74
+#: meta-data/cmb2/includes/CMB2_JS.php:101
+#@ redux-framework
+#@ cmb2
+msgid "Select Color"
+msgstr ""
+
+#: lib/redux/inc/fields/dimensions/field_dimensions.php:162
+#@ redux-framework
+msgid "Width"
+msgstr ""
+
+#: lib/redux/inc/fields/dimensions/field_dimensions.php:178
+#: lib/redux/inc/fields/typography/field_typography.php:442
+#@ redux-framework
+msgid "Height"
+msgstr ""
+
+#: lib/redux/inc/fields/dimensions/field_dimensions.php:189
+#: lib/redux/inc/fields/dimensions/field_dimensions.php:190
+#: lib/redux/inc/fields/spacing/field_spacing.php:245
+#: lib/redux/inc/fields/spacing/field_spacing.php:246
+#@ redux-framework
+msgid "Units"
+msgstr ""
+
+#: lib/redux/inc/fields/gallery/field_gallery.php:73
+#@ redux-framework
+msgid "Add/Edit Gallery"
+msgstr ""
+
+#: lib/redux/inc/fields/gallery/field_gallery.php:74
+#@ redux-framework
+msgid "Clear Gallery"
+msgstr ""
+
+#: lib/redux/inc/fields/link_color/field_link_color.php:90
+#@ redux-framework
+msgid "Regular"
+msgstr ""
+
+#: lib/redux/inc/fields/link_color/field_link_color.php:94
+#@ redux-framework
+msgid "Hover"
+msgstr ""
+
+#: lib/redux/inc/fields/link_color/field_link_color.php:98
+#@ redux-framework
+msgid "Visited"
+msgstr ""
+
+#: lib/redux/inc/fields/link_color/field_link_color.php:102
+#@ redux-framework
+msgid "Active"
+msgstr ""
+
+#: lib/redux/inc/fields/link_color/field_link_color.php:106
+#@ redux-framework
+msgid "Focus"
+msgstr ""
+
+#: lib/redux/inc/fields/multi_text/field_multi_text.php:62
+#@ redux-framework
+msgid "Add More"
+msgstr ""
+
+#: lib/redux/inc/fields/password/field_password.php:62
+#@ redux-framework
+msgid "Password"
+msgstr ""
+
+#: lib/redux/inc/fields/password/field_password.php:63
+#@ redux-framework
+msgid "Username"
+msgstr ""
+
+#: lib/redux/inc/fields/select/field_select.php:83
+#: lib/redux/inc/fields/select_image/field_select_image.php:63
+#@ redux-framework
+msgid "Select an item"
+msgstr ""
+
+#: lib/redux/inc/fields/select/field_select.php:134
+#: lib/redux/inc/fields/select_image/field_select_image.php:144
+#@ redux-framework
+msgid "No items of this type were found."
+msgstr ""
+
+#: lib/redux/inc/fields/slides/field_slides.php:68
+#@ redux-framework
+msgid "Slide"
+msgstr ""
+
+#: lib/redux/inc/fields/slides/field_slides.php:73
+#: lib/redux/inc/fields/slides/field_slides.php:174
+#, php-format
+#@ redux-framework
+msgid "New %s"
+msgstr ""
+
+#: lib/redux/inc/fields/slides/field_slides.php:145
+#: lib/redux/inc/fields/slides/field_slides.php:200
+#: vc-addons/lgx-pricing-2.php:64
+#: vc-addons/lgx-travel-info.php:64
+#@ redux-framework
+#@ lgx-themential
+msgid "Title"
+msgstr ""
+
+#: lib/redux/inc/fields/slides/field_slides.php:149
+#: lib/redux/inc/fields/slides/field_slides.php:204
+#: meta-data/cmb2/example-functions.php:504
+#@ redux-framework
+#@ cmb2
+msgid "Description"
+msgstr ""
+
+#: lib/redux/inc/fields/slides/field_slides.php:153
+#: lib/redux/inc/fields/slides/field_slides.php:207
+#: vc-addons/lgx-brand-btn.php:56
+#: vc-addons/lgx-sponsors.php:86
+#@ redux-framework
+#@ lgx-themential
+msgid "URL"
+msgstr ""
+
+#: lib/redux/inc/fields/slides/field_slides.php:167
+#: lib/redux/inc/fields/slides/field_slides.php:220
+#@ redux-framework
+msgid "Delete"
+msgstr ""
+
+#: lib/redux/inc/fields/slides/field_slides.php:223
+#, php-format
+#@ redux-framework
+msgid "Add %s"
+msgstr ""
+
+#: lib/redux/inc/fields/switch/field_switch.php:41
+#@ redux-framework
+msgid "On"
+msgstr ""
+
+#: lib/redux/inc/fields/switch/field_switch.php:44
+#@ redux-framework
+msgid "Off"
+msgstr ""
+
+#: lib/redux/inc/fields/typography/field_typography.php:231
+#@ redux-framework
+msgid "Font Family"
+msgstr ""
+
+#: lib/redux/inc/fields/typography/field_typography.php:232
+#@ redux-framework
+msgid "Font family"
+msgstr ""
+
+#: lib/redux/inc/fields/typography/field_typography.php:258
+#: lib/redux/inc/fields/typography/field_typography.php:259
+#@ redux-framework
+msgid "Backup Font Family"
+msgstr ""
+
+#: lib/redux/inc/fields/typography/field_typography.php:273
+#: lib/redux/inc/fields/typography/field_typography.php:281
+#@ redux-framework
+msgid "Font style"
+msgstr ""
+
+#: lib/redux/inc/fields/typography/field_typography.php:274
+#@ redux-framework
+msgid "Font Weight &amp; Style"
+msgstr ""
+
+#: lib/redux/inc/fields/typography/field_typography.php:281
+#@ redux-framework
+msgid "Style"
+msgstr ""
+
+#: lib/redux/inc/fields/typography/field_typography.php:321
+#@ redux-framework
+msgid "Font subsets"
+msgstr ""
+
+#: lib/redux/inc/fields/typography/field_typography.php:323
+#@ redux-framework
+msgid "Font Subsets"
+msgstr ""
+
+#: lib/redux/inc/fields/typography/field_typography.php:325
+#@ redux-framework
+msgid "Subsets"
+msgstr ""
+
+#: lib/redux/inc/fields/typography/field_typography.php:325
+#@ redux-framework
+msgid "Font script"
+msgstr ""
+
+#: lib/redux/inc/fields/typography/field_typography.php:342
+#: lib/redux/inc/fields/typography/field_typography.php:343
+#: lib/redux/inc/fields/typography/field_typography.php:344
+#@ redux-framework
+msgid "Text Align"
+msgstr ""
+
+#: lib/redux/inc/fields/typography/field_typography.php:365
+#: lib/redux/inc/fields/typography/field_typography.php:366
+#: lib/redux/inc/fields/typography/field_typography.php:367
+#@ redux-framework
+msgid "Text Transform"
+msgstr ""
+
+#: lib/redux/inc/fields/typography/field_typography.php:388
+#: lib/redux/inc/fields/typography/field_typography.php:389
+#: lib/redux/inc/fields/typography/field_typography.php:390
+#@ redux-framework
+msgid "Font Variant"
+msgstr ""
+
+#: lib/redux/inc/fields/typography/field_typography.php:408
+#: lib/redux/inc/fields/typography/field_typography.php:409
+#: lib/redux/inc/fields/typography/field_typography.php:410
+#@ redux-framework
+msgid "Text Decoration"
+msgstr ""
+
+#: lib/redux/inc/fields/typography/field_typography.php:432
+#: lib/redux/inc/fields/typography/field_typography.php:433
+#@ redux-framework
+msgid "Font Size"
+msgstr ""
+
+#: lib/redux/inc/fields/typography/field_typography.php:433
+#@ redux-framework
+msgid "Size"
+msgstr ""
+
+#: lib/redux/inc/fields/typography/field_typography.php:441
+#: lib/redux/inc/fields/typography/field_typography.php:442
+#@ redux-framework
+msgid "Line Height"
+msgstr ""
+
+#: lib/redux/inc/fields/typography/field_typography.php:450
+#: lib/redux/inc/fields/typography/field_typography.php:451
+#@ redux-framework
+msgid "Word Spacing"
+msgstr ""
+
+#: lib/redux/inc/fields/typography/field_typography.php:459
+#: lib/redux/inc/fields/typography/field_typography.php:460
+#@ redux-framework
+msgid "Letter Spacing"
+msgstr ""
+
+#: lib/redux/inc/fields/typography/field_typography.php:478
+#@ redux-framework
+msgid "Font Color"
+msgstr ""
+
+#: lib/redux/inc/fields/typography/field_typography.php:480
+#@ redux-framework
+msgid "Font color"
+msgstr ""
+
+#: lib/redux/inc/fields/typography/field_typography.php:890
+#@ redux-framework
+msgid "Standard Fonts"
+msgstr ""
+
+#: lib/redux/inc/fields/typography/field_typography.php:991
+#@ redux-framework
+msgid "Google Webfonts"
+msgstr ""
+
+#: lib/redux/inc/themecheck/checks/embedded.php:15
+#, php-format
+#@ redux-framework
+msgid "<span class=\"tc-lead tc-recommended\">RECOMMENDED</span>: If you are submitting to WordPress.org Theme Repository, it is <strong>strongly</strong> suggested that you read <a href=\"%s\" target=\"_blank\">this document</a>, or your theme will be rejected because of Redux."
+msgstr ""
+
+#: lib/redux/inc/themecheck/checks/embedded.php:24
+#, php-format
+#@ redux-framework
+msgid "<span class=\"tc-lead tc-required\">REQUIRED</span>: You MUST delete <strong> %s </strong>, or your theme will be rejected by WP.org theme submission because of Redux."
+msgstr ""
+
+#: lib/redux/inc/themecheck/checks/embedded.php:38
+#@ redux-framework
+msgid "Optional"
+msgstr ""
+
+#: lib/redux/inc/themecheck/checks/embedded.php:40
+#@ redux-framework
+msgid "<span class=\"tc-lead tc-recommended\">RECOMMENDED</span>: The following arguments MUST be used for WP.org submissions, or you will be rejected because of your Redux configuration."
+msgstr ""
+
+#: lib/redux/inc/themecheck/checks/full_package.php:16
+#@ themecheck
+msgid "Redux localization utilities"
+msgstr ""
+
+#: lib/redux/inc/themecheck/checks/full_package.php:17
+#@ themecheck
+msgid "Redux Resting Diles"
+msgstr ""
+
+#: lib/redux/inc/themecheck/checks/full_package.php:18
+#@ themecheck
+msgid "Redux Code Styles"
+msgstr ""
+
+#: lib/redux/inc/themecheck/checks/full_package.php:19
+#@ themecheck
+msgid "Redux Unit Testing"
+msgstr ""
+
+#: lib/redux/inc/themecheck/checks/full_package.php:20
+#@ themecheck
+msgid "Redux Plugin File"
+msgstr ""
+
+#: lib/redux/inc/themecheck/checks/full_package.php:21
+#@ themecheck
+msgid "Redux Boostrap Tests"
+msgstr ""
+
+#: lib/redux/inc/themecheck/checks/full_package.php:22
+#@ themecheck
+msgid "CI Testing FIle"
+msgstr ""
+
+#: lib/redux/inc/themecheck/checks/full_package.php:23
+#@ themecheck
+msgid "PHP Unit Testing"
+msgstr ""
+
+#: lib/redux/inc/themecheck/checks/full_package.php:36
+#@ redux-framework
+msgid "It appears that you have embedded the full Redux package inside your theme. You need only embed the <strong>ReduxCore</strong> folder. Embedding anything else will get your rejected from theme submission. Suspected Redux package file(s):"
+msgstr ""
+
+#: lib/redux/inc/tracking.php:129
+#@ redux-framework
+msgid "Help improve Our Panel"
+msgstr ""
+
+#: lib/redux/inc/tracking.php:130
+#@ redux-framework
+msgid "Please helps us improve our panel by allowing us to gather anonymous usage stats so we know which configurations, plugins and themes to test to ensure compatibility."
+msgstr ""
+
+#: lib/redux/inc/tracking.php:135
+#@ redux-framework
+msgid "Allow tracking"
+msgstr ""
+
+#: lib/redux/inc/tracking.php:140
+#@ redux-framework
+msgid "Do not allow tracking"
+msgstr ""
+
+#: lib/redux/inc/tracking.php:151
+#@ redux-framework
+msgid "Welcome to the Redux Demo Panel"
+msgstr ""
+
+#: lib/redux/inc/tracking.php:152
+#@ redux-framework
+msgid "Getting Started"
+msgstr ""
+
+#: lib/redux/inc/tracking.php:152
+#, php-format
+#@ redux-framework
+msgid "This panel demonstrates the many features of Redux.  Before digging in, we suggest you get up to speed by reviewing %1$s."
+msgstr ""
+
+#: lib/redux/inc/tracking.php:152
+#@ redux-framework
+msgid "our documentation"
+msgstr ""
+
+#: lib/redux/inc/tracking.php:153
+#@ redux-framework
+msgid "Redux Generator"
+msgstr ""
+
+#: lib/redux/inc/tracking.php:153
+#, php-format
+#@ redux-framework
+msgid "Want to get a head start? Use the %1$s. It will create a customized boilerplate theme or a standalone admin folder complete with all things Redux (with the help of Underscores and TGM). Save yourself a headache and try it today."
+msgstr ""
+
+#: lib/redux/inc/tracking.php:154
+#: lib/redux/inc/welcome/welcome.php:229
+#@ redux-framework
+msgid "Redux Extensions"
+msgstr ""
+
+#: lib/redux/inc/tracking.php:154
+#, php-format
+#@ redux-framework
+msgid "Did you know we have extensions, which greatly enhance the features of Redux?  Visit our %1$s to learn more!"
+msgstr ""
+
+#: lib/redux/inc/tracking.php:154
+#@ redux-framework
+msgid "extensions directory"
+msgstr ""
+
+#: lib/redux/inc/tracking.php:155
+#@ redux-framework
+msgid "Like Redux?"
+msgstr ""
+
+#: lib/redux/inc/tracking.php:155
+#, php-format
+#@ redux-framework
+msgid "If so, please %1$s and consider making a %2$s to keep development of Redux moving forward."
+msgstr ""
+
+#: lib/redux/inc/tracking.php:155
+#@ redux-framework
+msgid "leave us a favorable review on WordPress.org"
+msgstr ""
+
+#: lib/redux/inc/tracking.php:155
+#@ redux-framework
+msgid "donation"
+msgstr ""
+
+#: lib/redux/inc/tracking.php:156
+#@ redux-framework
+msgid "Newsletter"
+msgstr ""
+
+#: lib/redux/inc/tracking.php:156
+#@ redux-framework
+msgid "If you'd like to keep up to with all things Redux, please subscribe to our newsletter"
+msgstr ""
+
+#: lib/redux/inc/tracking.php:157
+#@ redux-framework
+msgid "Email address"
+msgstr ""
+
+#: lib/redux/inc/tracking.php:157
+#@ redux-framework
+msgid "Subscribe"
+msgstr ""
+
+#: lib/redux/inc/tracking.php:166
+#: vc-addons/lgx-video-embed.php:55
+#@ redux-framework
+#@ lgx-themential
+msgid "Close"
+msgstr ""
+
+#: lib/redux/inc/validation/color/validation_color.php:15
+#: lib/redux/inc/validation/colorrgba/validation_colorrgba.php:16
+#: lib/redux/inc/validation/color_rgba/validation_color_rgba.php:14
+#@ redux-framework
+msgid "This field must be a valid color value."
+msgstr ""
+
+#: lib/redux/inc/validation/comma_numeric/validation_comma_numeric.php:16
+#@ redux-framework
+msgid "You must provide a comma separated list of numerical values for this option."
+msgstr ""
+
+#: lib/redux/inc/validation/css/validation_css.php:39
+#@ redux-framework
+msgid "Unsafe strings were found in your CSS and have been filtered out."
+msgstr ""
+
+#: lib/redux/inc/validation/date/validation_date.php:16
+#@ redux-framework
+msgid "This field must be a valid date."
+msgstr ""
+
+#: lib/redux/inc/validation/email/validation_email.php:16
+#: lib/redux/inc/validation/email_not_empty/validation_email_not_empty.php:16
+#@ redux-framework
+msgid "You must provide a valid email for this option."
+msgstr ""
+
+#: lib/redux/inc/validation/no_html/validation_no_html.php:15
+#@ redux-framework
+msgid "You must not enter any HTML in this field, all HTML tags have been removed."
+msgstr ""
+
+#: lib/redux/inc/validation/no_special_chars/validation_no_special_chars.php:16
+#@ redux-framework
+msgid "You must not enter any special characters in this field, all special characters have been removed."
+msgstr ""
+
+#: lib/redux/inc/validation/not_empty/validation_not_empty.php:16
+#@ redux-framework
+msgid "This field cannot be empty. Please provide a value."
+msgstr ""
+
+#: lib/redux/inc/validation/numeric/validation_numeric.php:16
+#: lib/redux/inc/validation/numeric_not_empty/validation_numeric_not_empty.php:16
+#@ redux-framework
+msgid "You must provide a numerical value for this option."
+msgstr ""
+
+#: lib/redux/inc/validation/unique_slug/validation_unique_slug.php:16
+#, php-format
+#@ redux-framework
+msgid "That URL slug is in use, please choose another. <code>%s</code> is open for use."
+msgstr ""
+
+#: lib/redux/inc/validation/url/validation_url.php:16
+#@ redux-framework
+msgid "You must provide a valid URL for this option."
+msgstr ""
+
+#: lib/redux/inc/welcome/views/about.php:2
+#, php-format
+#@ redux-framework
+msgid "Welcome to Redux Framework %s"
+msgstr ""
+
+#: lib/redux/inc/welcome/views/about.php:5
+#, php-format
+#@ redux-framework
+msgid "Thank you for updating to the latest version! Redux Framework %s is a huge step forward in Redux Development. Look at all that's new."
+msgstr ""
+
+#: lib/redux/inc/welcome/views/about.php:8
+#: lib/redux/inc/welcome/views/changelog.php:10
+#: lib/redux/inc/welcome/views/credits.php:10
+#: lib/redux/inc/welcome/views/extensions.php:81
+#: lib/redux/inc/welcome/views/status_report.php:34
+#: lib/redux/inc/welcome/views/support.php:8
+#, php-format
+#@ redux-framework
+msgid "Version %s"
+msgstr ""
+
+#: lib/redux/inc/welcome/views/about.php:15
+#@ redux-framework
+msgid "What is Redux Framework?"
+msgstr ""
+
+#: lib/redux/inc/welcome/views/about.php:17
+#@ redux-framework
+msgid ""
+"Redux Framework is the core of many products on the web. It is an option framework which developers use to\n"
+"            enhance their products."
+msgstr ""
+
+#: lib/redux/inc/welcome/views/about.php:22
+#@ redux-framework
+msgid "Learn More"
+msgstr ""
+
+#: lib/redux/inc/welcome/views/about.php:28
+#@ redux-framework
+msgid "New in this Release"
+msgstr ""
+
+#: lib/redux/inc/welcome/views/changelog.php:2
+#@ redux-framework
+msgid "Redux Framework - Changelog"
+msgstr ""
+
+#: lib/redux/inc/welcome/views/changelog.php:5
+#: lib/redux/inc/welcome/views/status_report.php:30
+#@ redux-framework
+msgid "Our core mantra at Redux is backwards compatibility. With hundreds of thousands of instances worldwide, you can be assured that we will take care of you and your clients."
+msgstr ""
+
+#: lib/redux/inc/welcome/views/credits.php:2
+#@ redux-framework
+msgid "Redux Framework - A Community Effort"
+msgstr ""
+
+#: lib/redux/inc/welcome/views/credits.php:5
+#@ redux-framework
+msgid "We recognize we are nothing without our community. We would like to thank all of those who help Redux to be what it is. Thank you for your involvement."
+msgstr ""
+
+#: lib/redux/inc/welcome/views/credits.php:18
+#, php-format
+#@ redux-framework
+msgid "Redux is created by a community of developers world wide. Want to have your name listed too? <a href=\"%d\" target=\"_blank\">Contribute to Redux</a>."
+msgstr ""
+
+#: lib/redux/inc/welcome/views/extensions.php:73
+#@ redux-framework
+msgid "Redux Framework - Extensions"
+msgstr ""
+
+#: lib/redux/inc/welcome/views/extensions.php:76
+#@ redux-framework
+msgid "Supercharge your Redux experience. Our extensions provide you with features that will take your products to the next level."
+msgstr ""
+
+#: lib/redux/inc/welcome/views/extensions.php:89
+#@ redux-framework
+msgid "While some are built specificially for developers, extensions such as Custom Fonts are sure to make any user happy."
+msgstr ""
+
+#: lib/redux/inc/welcome/views/status_report.php:26
+#@ redux-framework
+msgid "Redux Framework - System Status"
+msgstr ""
+
+#: lib/redux/inc/welcome/views/status_report.php:43
+#@ redux-framework
+msgid "Please copy and paste this information in your ticket when contacting support:"
+msgstr ""
+
+#: lib/redux/inc/welcome/views/status_report.php:48
+#@ redux-framework
+msgid "Get System Report"
+msgstr ""
+
+#: lib/redux/inc/welcome/views/status_report.php:53
+#@ redux-framework
+msgid "Understanding the Status Report"
+msgstr ""
+
+#: lib/redux/inc/welcome/views/status_report.php:62
+#@ redux-framework
+msgid "Copied!"
+msgstr ""
+
+#: lib/redux/inc/welcome/views/status_report.php:63
+#@ redux-framework
+msgid "Copy for Support"
+msgstr ""
+
+#: lib/redux/inc/welcome/views/status_report.php:73
+#@ redux-framework
+msgid "WordPress Environment"
+msgstr ""
+
+#: lib/redux/inc/welcome/views/status_report.php:80
+#@ redux-framework
+msgid "Home URL"
+msgstr ""
+
+#: lib/redux/inc/welcome/views/status_report.php:83
+#@ redux-framework
+msgid "The URL of your site's homepage."
+msgstr ""
+
+#: lib/redux/inc/welcome/views/status_report.php:89
+#@ redux-framework
+msgid "Site URL"
+msgstr ""
+
+#: lib/redux/inc/welcome/views/status_report.php:92
+#@ redux-framework
+msgid "The root URL of your site."
+msgstr ""
+
+#: lib/redux/inc/welcome/views/status_report.php:100
+#@ redux-framework
+msgid "Redux Version"
+msgstr ""
+
+#: lib/redux/inc/welcome/views/status_report.php:103
+#@ redux-framework
+msgid "The version of Redux Framework installed on your site."
+msgstr ""
+
+#: lib/redux/inc/welcome/views/status_report.php:111
+#@ redux-framework
+msgid "Redux Data Directory Writable"
+msgstr ""
+
+#: lib/redux/inc/welcome/views/status_report.php:114
+#@ redux-framework
+msgid "Redux and its extensions write data to the <code>uploads</code> directory. This directory must be writable."
+msgstr ""
+
+#: lib/redux/inc/welcome/views/status_report.php:120
+#, php-format
+#@ redux-framework
+msgid "To allow data saving, make <code>%s</code> writable."
+msgstr ""
+
+#: lib/redux/inc/welcome/views/status_report.php:126
+#@ redux-framework
+msgid "WP Content URL"
+msgstr ""
+
+#: lib/redux/inc/welcome/views/status_report.php:129
+#@ redux-framework
+msgid "The location of Wordpress's content URL."
+msgstr ""
+
+#: lib/redux/inc/welcome/views/status_report.php:137
+#@ redux-framework
+msgid "WP Version"
+msgstr ""
+
+#: lib/redux/inc/welcome/views/status_report.php:140
+#@ redux-framework
+msgid "The version of WordPress installed on your site."
+msgstr ""
+
+#: lib/redux/inc/welcome/views/status_report.php:148
+#@ redux-framework
+msgid "WP Multisite"
+msgstr ""
+
+#: lib/redux/inc/welcome/views/status_report.php:151
+#@ redux-framework
+msgid "Whether or not you have WordPress Multisite enabled."
+msgstr ""
+
+#: lib/redux/inc/welcome/views/status_report.php:162
+#@ redux-framework
+msgid "Permalink Structure"
+msgstr ""
+
+#: lib/redux/inc/welcome/views/status_report.php:165
+#@ redux-framework
+msgid "The current permalink structure as defined in Wordpress Settings->Permalinks."
+msgstr ""
+
+#: lib/redux/inc/welcome/views/status_report.php:174
+#@ redux-framework
+msgid "Front Page Display"
+msgstr ""
+
+#: lib/redux/inc/welcome/views/status_report.php:176
+#@ redux-framework
+msgid "The current Reading mode of Wordpress."
+msgstr ""
+
+#: lib/redux/inc/welcome/views/status_report.php:185
+#@ redux-framework
+msgid "Front Page"
+msgstr ""
+
+#: lib/redux/inc/welcome/views/status_report.php:188
+#@ redux-framework
+msgid "The currently selected page which acts as the site's Front Page."
+msgstr ""
+
+#: lib/redux/inc/welcome/views/status_report.php:196
+#@ redux-framework
+msgid "Posts Page"
+msgstr ""
+
+#: lib/redux/inc/welcome/views/status_report.php:199
+#@ redux-framework
+msgid "The currently selected page in where blog posts are displayed."
+msgstr ""
+
+#: lib/redux/inc/welcome/views/status_report.php:210
+#@ redux-framework
+msgid "WP Memory Limit"
+msgstr ""
+
+#: lib/redux/inc/welcome/views/status_report.php:213
+#@ redux-framework
+msgid "The maximum amount of memory (RAM) that your site can use at one time."
+msgstr ""
+
+#: lib/redux/inc/welcome/views/status_report.php:220
+#, php-format
+#@ redux-framework
+msgid "%s - We recommend setting memory to at least 40MB. See: <a href=\"%s\" target=\"_blank\">Increasing memory allocated to PHP</a>"
+msgstr ""
+
+#: lib/redux/inc/welcome/views/status_report.php:229
+#@ redux-framework
+msgid "Database Table Prefix"
+msgstr ""
+
+#: lib/redux/inc/welcome/views/status_report.php:232
+#@ redux-framework
+msgid "The prefix structure of the current Wordpress database."
+msgstr ""
+
+#: lib/redux/inc/welcome/views/status_report.php:240
+#@ redux-framework
+msgid "WP Debug Mode"
+msgstr ""
+
+#: lib/redux/inc/welcome/views/status_report.php:243
+#@ redux-framework
+msgid "Displays whether or not WordPress is in Debug Mode."
+msgstr ""
+
+#: lib/redux/inc/welcome/views/status_report.php:255
+#@ redux-framework
+msgid "Language"
+msgstr ""
+
+#: lib/redux/inc/welcome/views/status_report.php:258
+#@ redux-framework
+msgid "The current language used by WordPress. Default = English"
+msgstr ""
+
+#: lib/redux/inc/welcome/views/status_report.php:270
+#@ redux-framework
+msgid "Browser"
+msgstr ""
+
+#: lib/redux/inc/welcome/views/status_report.php:277
+#@ redux-framework
+msgid "Browser Info"
+msgstr ""
+
+#: lib/redux/inc/welcome/views/status_report.php:280
+#@ redux-framework
+msgid "Information about web browser current in use."
+msgstr ""
+
+#: lib/redux/inc/welcome/views/status_report.php:297
+#@ redux-framework
+msgid "Server Environment"
+msgstr ""
+
+#: lib/redux/inc/welcome/views/status_report.php:304
+#@ redux-framework
+msgid "Server Info"
+msgstr ""
+
+#: lib/redux/inc/welcome/views/status_report.php:307
+#@ redux-framework
+msgid "Information about the web server that is currently hosting your site."
+msgstr ""
+
+#: lib/redux/inc/welcome/views/status_report.php:315
+#@ redux-framework
+msgid "Localhost Environment"
+msgstr ""
+
+#: lib/redux/inc/welcome/views/status_report.php:318
+#@ redux-framework
+msgid "Is the server running in a localhost environment."
+msgstr ""
+
+#: lib/redux/inc/welcome/views/status_report.php:332
+#@ redux-framework
+msgid "PHP Version"
+msgstr ""
+
+#: lib/redux/inc/welcome/views/status_report.php:335
+#@ redux-framework
+msgid "The version of PHP installed on your hosting server."
+msgstr ""
+
+#: lib/redux/inc/welcome/views/status_report.php:343
+#@ redux-framework
+msgid "ABSPATH"
+msgstr ""
+
+#: lib/redux/inc/welcome/views/status_report.php:346
+#@ redux-framework
+msgid "The ABSPATH variable on the server."
+msgstr ""
+
+#: lib/redux/inc/welcome/views/status_report.php:355
+#@ redux-framework
+msgid "PHP Memory Limit"
+msgstr ""
+
+#: lib/redux/inc/welcome/views/status_report.php:356
+#: lib/redux/inc/welcome/views/status_report.php:361
+#@ redux-framework
+msgid "The largest filesize that can be contained in one post."
+msgstr ""
+
+#: lib/redux/inc/welcome/views/status_report.php:360
+#@ redux-framework
+msgid "PHP Post Max Size"
+msgstr ""
+
+#: lib/redux/inc/welcome/views/status_report.php:365
+#@ redux-framework
+msgid "PHP Time Limit"
+msgstr ""
+
+#: lib/redux/inc/welcome/views/status_report.php:366
+#@ redux-framework
+msgid "The amount of time (in seconds) that your site will spend on a single operation before timing out (to avoid server lockups)"
+msgstr ""
+
+#: lib/redux/inc/welcome/views/status_report.php:370
+#@ redux-framework
+msgid "PHP Max Input Vars"
+msgstr ""
+
+#: lib/redux/inc/welcome/views/status_report.php:371
+#@ redux-framework
+msgid "The maximum number of variables your server can use for a single function to avoid overloads."
+msgstr ""
+
+#: lib/redux/inc/welcome/views/status_report.php:375
+#@ redux-framework
+msgid "PHP Display Errors"
+msgstr ""
+
+#: lib/redux/inc/welcome/views/status_report.php:376
+#@ redux-framework
+msgid "Determines if PHP will display errors within the browser."
+msgstr ""
+
+#: lib/redux/inc/welcome/views/status_report.php:387
+#@ redux-framework
+msgid "SUHOSIN Installed"
+msgstr ""
+
+#: lib/redux/inc/welcome/views/status_report.php:388
+#@ redux-framework
+msgid "Suhosin is an advanced protection system for PHP installations. It was designed to protect your servers on the one hand against a number of well known problems in PHP applications and on the other hand against potential unknown vulnerabilities within these applications or the PHP core itself.  If enabled on your server, Suhosin may need to be configured to increase its data submission limits."
+msgstr ""
+
+#: lib/redux/inc/welcome/views/status_report.php:399
+#@ redux-framework
+msgid "MySQL Version"
+msgstr ""
+
+#: lib/redux/inc/welcome/views/status_report.php:400
+#@ redux-framework
+msgid "The version of MySQL installed on your hosting server."
+msgstr ""
+
+#: lib/redux/inc/welcome/views/status_report.php:404
+#@ redux-framework
+msgid "Max Upload Size"
+msgstr ""
+
+#: lib/redux/inc/welcome/views/status_report.php:405
+#@ redux-framework
+msgid "The largest filesize that can be uploaded to your WordPress installation."
+msgstr ""
+
+#: lib/redux/inc/welcome/views/status_report.php:410
+#@ redux-framework
+msgid "Default Timezone is UTC"
+msgstr ""
+
+#: lib/redux/inc/welcome/views/status_report.php:412
+#@ redux-framework
+msgid "The default timezone for your server."
+msgstr ""
+
+#: lib/redux/inc/welcome/views/status_report.php:416
+#, php-format
+#@ redux-framework
+msgid "Default timezone is %s - it should be UTC"
+msgstr ""
+
+#: lib/redux/inc/welcome/views/status_report.php:428
+#@ redux-framework
+msgid "Used when communicating with remote services with PHP."
+msgstr ""
+
+#: lib/redux/inc/welcome/views/status_report.php:434
+#@ redux-framework
+msgid "Your server does not have fsockopen or cURL enabled - cURL is used to communicate with other servers. Please contact your hosting provider."
+msgstr ""
+
+#: lib/redux/inc/welcome/views/status_report.php:473
+#@ redux-framework
+msgid "Remote Post"
+msgstr ""
+
+#: lib/redux/inc/welcome/views/status_report.php:474
+#@ redux-framework
+msgid "Used to send data to remote servers."
+msgstr ""
+
+#: lib/redux/inc/welcome/views/status_report.php:479
+#@ redux-framework
+msgid "wp_remote_post() failed. Many advanced features may not function. Contact your hosting provider."
+msgstr ""
+
+#: lib/redux/inc/welcome/views/status_report.php:482
+#: lib/redux/inc/welcome/views/status_report.php:497
+#, php-format
+#@ redux-framework
+msgid "Error: %s"
+msgstr ""
+
+#: lib/redux/inc/welcome/views/status_report.php:489
+#@ redux-framework
+msgid "Remote Get"
+msgstr ""
+
+#: lib/redux/inc/welcome/views/status_report.php:490
+#@ redux-framework
+msgid "Used to grab information from remote servers for updates updates."
+msgstr ""
+
+#: lib/redux/inc/welcome/views/status_report.php:495
+#@ redux-framework
+msgid "wp_remote_get() failed. This is needed to get information from remote servers. Contact your hosting provider."
+msgstr ""
+
+#: lib/redux/inc/welcome/views/status_report.php:531
+#@ redux-framework
+msgid "Active Plugins"
+msgstr ""
+
+#: lib/redux/inc/welcome/views/status_report.php:546
+#@ redux-framework
+msgid "Visit plugin homepage"
+msgstr ""
+
+#: lib/redux/inc/welcome/views/status_report.php:553
+#, php-format
+#@ redux-framework
+msgctxt "by author"
+msgid "by %s"
+msgstr ""
+
+#: lib/redux/inc/welcome/views/status_report.php:572
+#@ redux-framework
+msgid "Redux Instance: "
+msgstr ""
+
+#: lib/redux/inc/welcome/views/status_report.php:579
+#@ redux-framework
+msgid "The opt_name argument for this instance of Redux."
+msgstr ""
+
+#: lib/redux/inc/welcome/views/status_report.php:587
+#@ redux-framework
+msgid "The global_variable argument for this instance of Redux."
+msgstr ""
+
+#: lib/redux/inc/welcome/views/status_report.php:595
+#@ redux-framework
+msgid "Indicates if developer mode is enabled for this instance of Redux."
+msgstr ""
+
+#: lib/redux/inc/welcome/views/status_report.php:600
+#@ redux-framework
+msgid "Indicates if ajax based saving is enabled for this instance of Redux."
+msgstr ""
+
+#: lib/redux/inc/welcome/views/status_report.php:605
+#@ redux-framework
+msgid "The page slug denotes the string used for the options panel page for this instance of Redux."
+msgstr ""
+
+#: lib/redux/inc/welcome/views/status_report.php:610
+#@ redux-framework
+msgid "The page permissions variable sets the permission level required to access the options panel for this instance of Redux."
+msgstr ""
+
+#: lib/redux/inc/welcome/views/status_report.php:615
+#@ redux-framework
+msgid "This variable set whether or not the menu is displayed as an admin menu item for this instance of Redux."
+msgstr ""
+
+#: lib/redux/inc/welcome/views/status_report.php:620
+#@ redux-framework
+msgid "The page parent variable sets where the options menu will be placed on the WordPress admin sidebar for this instance of Redux."
+msgstr ""
+
+#: lib/redux/inc/welcome/views/status_report.php:626
+#@ redux-framework
+msgid "Indicates if the compiler flag is enabled for this instance of Redux."
+msgstr ""
+
+#: lib/redux/inc/welcome/views/status_report.php:631
+#@ redux-framework
+msgid "Indicates if output flag for globally shutting off all CSS output is enabled for this instance of Redux."
+msgstr ""
+
+#: lib/redux/inc/welcome/views/status_report.php:636
+#@ redux-framework
+msgid "The output_tag variable sets whether or not dynamic CSS will be generated for the customizer and Google fonts for this instance of Redux."
+msgstr ""
+
+#: lib/redux/inc/welcome/views/status_report.php:645
+#@ redux-framework
+msgid "The specified template path containing custom template files for this instance of Redux."
+msgstr ""
+
+#: lib/redux/inc/welcome/views/status_report.php:650
+#@ redux-framework
+msgid "List of template files overriding the default Redux template files."
+msgstr ""
+
+#: lib/redux/inc/welcome/views/status_report.php:676
+#@ redux-framework
+msgid "Indicates the installed Redux extensions and their version numbers."
+msgstr ""
+
+#: lib/redux/inc/welcome/views/status_report.php:705
+#@ redux-framework
+msgid "Theme"
+msgstr ""
+
+#: lib/redux/inc/welcome/views/status_report.php:710
+#@ redux-framework
+msgid "Name"
+msgstr ""
+
+#: lib/redux/inc/welcome/views/status_report.php:711
+#@ redux-framework
+msgid "The name of the current active theme."
+msgstr ""
+
+#: lib/redux/inc/welcome/views/status_report.php:715
+#@ redux-framework
+msgid "Version"
+msgstr ""
+
+#: lib/redux/inc/welcome/views/status_report.php:716
+#@ redux-framework
+msgid "The installed version of the current active theme."
+msgstr ""
+
+#: lib/redux/inc/welcome/views/status_report.php:722
+#@ redux-framework
+msgid "is available"
+msgstr ""
+
+#: lib/redux/inc/welcome/views/status_report.php:728
+#@ redux-framework
+msgid "Author URL"
+msgstr ""
+
+#: lib/redux/inc/welcome/views/status_report.php:729
+#@ redux-framework
+msgid "The theme developers URL."
+msgstr ""
+
+#: lib/redux/inc/welcome/views/status_report.php:733
+#@ redux-framework
+msgid "Child Theme"
+msgstr ""
+
+#: lib/redux/inc/welcome/views/status_report.php:734
+#@ redux-framework
+msgid "Displays whether or not the current theme is a child theme."
+msgstr ""
+
+#: lib/redux/inc/welcome/views/status_report.php:737
+#, php-format
+#@ redux-framework
+msgid "If you're modifying Redux Framework or a parent theme you didn't build personally, we recommend using a child theme. See: <a href=\"%s\" target=\"_blank\">How to create a child theme</a>"
+msgstr ""
+
+#: lib/redux/inc/welcome/views/status_report.php:745
+#@ redux-framework
+msgid "Parent Theme Name"
+msgstr ""
+
+#: lib/redux/inc/welcome/views/status_report.php:747
+#@ redux-framework
+msgid "The name of the parent theme."
+msgstr ""
+
+#: lib/redux/inc/welcome/views/status_report.php:752
+#@ redux-framework
+msgid "Parent Theme Version"
+msgstr ""
+
+#: lib/redux/inc/welcome/views/status_report.php:754
+#@ redux-framework
+msgid "The installed version of the parent theme."
+msgstr ""
+
+#: lib/redux/inc/welcome/views/status_report.php:759
+#@ redux-framework
+msgid "Parent Theme Author URL"
+msgstr ""
+
+#: lib/redux/inc/welcome/views/status_report.php:761
+#@ redux-framework
+msgid "The parent theme developers URL."
+msgstr ""
+
+#: lib/redux/inc/welcome/views/support.php:2
+#@ redux-framework
+msgid "Redux Framework - Support"
+msgstr ""
+
+#: lib/redux/inc/welcome/views/support.php:4
+#@ redux-framework
+msgid "We are an open source project used by developers to make powerful control panels."
+msgstr ""
+
+#: lib/redux/inc/welcome/views/support.php:19
+#: lib/redux/inc/welcome/views/support.php:40
+#@ redux-framework
+msgid "Generate a Support URL"
+msgstr ""
+
+#: lib/redux/inc/welcome/views/support.php:20
+#@ redux-framework
+msgid "Select Support Type"
+msgstr ""
+
+#: lib/redux/inc/welcome/views/support.php:21
+#: lib/redux/inc/welcome/views/support.php:87
+#@ redux-framework
+msgid "How to Get Support"
+msgstr ""
+
+#: lib/redux/inc/welcome/views/support.php:27
+#@ redux-framework
+msgid "Submit a Support Request"
+msgstr ""
+
+#: lib/redux/inc/welcome/views/support.php:31
+#@ redux-framework
+msgid "To get started, we will need to generate a support hash."
+msgstr ""
+
+#: lib/redux/inc/welcome/views/support.php:35
+#, php-format
+#@ redux-framework
+msgid "This will provide to your developer all the information they may need to remedy your issue. This action WILL send information securely to a remote server. To see the type of information sent, please look at the  <a href=\"%s\">Status tab</a>."
+msgstr ""
+
+#: lib/redux/inc/welcome/views/support.php:52
+#@ redux-framework
+msgid "Select Your Support Type"
+msgstr ""
+
+#: lib/redux/inc/welcome/views/support.php:56
+#@ redux-framework
+msgid "What type of user are you?"
+msgstr ""
+
+#: lib/redux/inc/welcome/views/support.php:63
+#@ redux-framework
+msgid "User"
+msgstr ""
+
+#: lib/redux/inc/welcome/views/support.php:65
+#@ redux-framework
+msgid "I am a user, using a pre-built product."
+msgstr ""
+
+#: lib/redux/inc/welcome/views/support.php:70
+#@ redux-framework
+msgid "Developer"
+msgstr ""
+
+#: lib/redux/inc/welcome/views/support.php:72
+#@ redux-framework
+msgid "I am a developer, building a product using Redux."
+msgstr ""
+
+#: lib/redux/inc/welcome/views/support.php:92
+#@ redux-framework
+msgid "Please proceed to the Redux Framework issue tracker and supply us with your support URL below. Please also provide any information that will help us to reproduce your issue."
+msgstr ""
+
+#: lib/redux/inc/welcome/views/support.php:101
+#@ redux-framework
+msgid "Listed below are the Wordpress plugins and/or theme installed on your site that utilize Redux Framework. We do not directly support products created with our framework.  It is the responsibility of the plugin or theme developer to support their work. You will need to contact the author(s) of the products listed below with your support questions."
+msgstr ""
+
+#: lib/redux/inc/welcome/views/support.php:105
+#@ redux-framework
+msgid "Please be sure to include for your developer - via cut and paste - the Support URL in the box below."
+msgstr ""
+
+#: lib/redux/inc/welcome/views/support.php:134
+#, php-format
+#@ redux-framework
+msgid "Should the developer not be responsive, read the <a href=\"%s\" target=\"_blank\">following article</a> before asking for support from us directly."
+msgstr ""
+
+#: lib/redux/inc/welcome/welcome.php:106
+#@ redux-framework
+msgid "If you like <strong>Redux</strong> please leave us a <a href=\"https://wordpress.org/support/view/plugin-reviews/redux-framework?filter=5#postform\" target=\"_blank\" class=\"redux-rating-link\" data-rated=\"Thanks :)\">&#9733;&#9733;&#9733;&#9733;&#9733;</a> rating. A huge thank you from Redux in advance!"
+msgstr ""
+
+#: lib/redux/inc/welcome/welcome.php:183
+#@ redux-framework
+msgid "Support hash could not be generated. Please try again later."
+msgstr ""
+
+#: lib/redux/inc/welcome/welcome.php:205
+#@ redux-framework
+msgid "Welcome to Redux Framework"
+msgstr ""
+
+#: lib/redux/inc/welcome/welcome.php:213
+#@ redux-framework
+msgid "Redux Framework Changelog"
+msgstr ""
+
+#: lib/redux/inc/welcome/welcome.php:221
+#@ redux-framework
+msgid "Get Support"
+msgstr ""
+
+#: lib/redux/inc/welcome/welcome.php:238
+#@ redux-framework
+msgid "The people that develop Redux Framework"
+msgstr ""
+
+#: lib/redux/inc/welcome/welcome.php:246
+#@ redux-framework
+msgid "Redux Framework Status"
+msgstr ""
+
+#: lib/redux/inc/welcome/welcome.php:346
+#@ redux-framework
+msgid "What's New"
+msgstr ""
+
+#: lib/redux/inc/welcome/welcome.php:349
+#@ redux-framework
+msgid "Extensions"
+msgstr ""
+
+#: lib/redux/inc/welcome/welcome.php:352
+#@ redux-framework
+msgid "Changelog"
+msgstr ""
+
+#: lib/redux/inc/welcome/welcome.php:355
+#@ redux-framework
+msgid "Credits"
+msgstr ""
+
+#: lib/redux/inc/welcome/welcome.php:358
+#@ redux-framework
+msgid "Support"
+msgstr ""
+
+#: lib/redux/inc/welcome/welcome.php:361
+#@ redux-framework
+msgid "Status"
+msgstr ""
+
+#: lib/redux/inc/welcome/welcome.php:521
+#, php-format
+#@ redux-framework
+msgid "View %s"
+msgstr ""
+
+#: lib/redux/templates/panel/footer.tpl.php:57
+#: lib/redux/templates/panel/header_stickybar.tpl.php:21
+#@ redux-framework
+msgid "Save Changes"
+msgstr ""
+
+#: lib/redux/templates/panel/footer.tpl.php:61
+#: lib/redux/templates/panel/header_stickybar.tpl.php:25
+#@ redux-framework
+msgid "Reset Section"
+msgstr ""
+
+#: lib/redux/templates/panel/footer.tpl.php:62
+#: lib/redux/templates/panel/header_stickybar.tpl.php:26
+#@ redux-framework
+msgid "Reset All"
+msgstr ""
+
+#: lib/redux/templates/panel/footer.tpl.php:67
+#: lib/redux/templates/panel/header_stickybar.tpl.php:29
+#@ redux-framework
+msgid "Working..."
+msgstr ""
+
+#: lib/redux/templates/panel/header_stickybar.tpl.php:15
+#@ redux-framework
+msgid "Expand"
+msgstr ""
+
+#: lib/redux/templates/panel/header.tpl.php:11
+#: lib/redux/templates/panel/header.tpl.php:49
+#@ redux-framework
+msgid "Developer Mode Enabled"
+msgstr ""
+
+#: lib/redux/templates/panel/header.tpl.php:20
+#@ redux-framework
+msgid "WP_DEBUG is enabled"
+msgstr ""
+
+#: lib/redux/templates/panel/header.tpl.php:26
+#@ redux-framework
+msgid "you are working in a localhost environment"
+msgstr ""
+
+#: lib/redux/templates/panel/header.tpl.php:31
+#@ redux-framework
+msgid "and"
+msgstr ""
+
+#: lib/redux/templates/panel/header.tpl.php:34
+#@ redux-framework
+msgid "This has been automatically enabled because"
+msgstr ""
+
+#: lib/redux/templates/panel/header.tpl.php:36
+#@ redux-framework
+msgid "If you are not a developer, your theme/plugin author shipped with developer mode enabled. Contact them directly to fix it."
+msgstr ""
+
+#: lib/redux/templates/panel/header.tpl.php:58
+#@ redux-framework
+msgid "FORCED DEV MODE OFF ENABLED"
+msgstr ""
+
+#: meta-data/cmb2/example-functions.php:117
+#@ cmb2
+msgid "Test Metabox"
+msgstr ""
+
+#: meta-data/cmb2/example-functions.php:130
+#: meta-data/cmb2/example-functions.php:452
+#@ cmb2
+msgid "Test Text"
+msgstr ""
+
+#: meta-data/cmb2/example-functions.php:131
+#: meta-data/cmb2/example-functions.php:144
+#: meta-data/cmb2/example-functions.php:157
+#: meta-data/cmb2/example-functions.php:164
+#: meta-data/cmb2/example-functions.php:177
+#: meta-data/cmb2/example-functions.php:185
+#: meta-data/cmb2/example-functions.php:194
+#: meta-data/cmb2/example-functions.php:202
+#: meta-data/cmb2/example-functions.php:217
+#: meta-data/cmb2/example-functions.php:225
+#: meta-data/cmb2/example-functions.php:233
+#: meta-data/cmb2/example-functions.php:250
+#: meta-data/cmb2/example-functions.php:259
+#: meta-data/cmb2/example-functions.php:272
+#: meta-data/cmb2/example-functions.php:279
+#: meta-data/cmb2/example-functions.php:286
+#: meta-data/cmb2/example-functions.php:300
+#: meta-data/cmb2/example-functions.php:313
+#: meta-data/cmb2/example-functions.php:326
+#: meta-data/cmb2/example-functions.php:338
+#: meta-data/cmb2/example-functions.php:347
+#: meta-data/cmb2/example-functions.php:355
+#: meta-data/cmb2/example-functions.php:364
+#: meta-data/cmb2/example-functions.php:371
+#: meta-data/cmb2/example-functions.php:385
+#: meta-data/cmb2/example-functions.php:453
+#: meta-data/cmb2/example-functions.php:544
+#: meta-data/cmb2/example-functions.php:552
+#: meta-data/cmb2/example-functions.php:559
+#: meta-data/cmb2/example-functions.php:566
+#: meta-data/cmb2/example-functions.php:573
+#: meta-data/cmb2/example-functions.php:580
+#: meta-data/cmb2/example-functions.php:587
+#: meta-data/cmb2/example-functions.php:614
+#: meta-data/cmb2/example-functions.php:622
+#: meta-data/cmb2/example-functions.php:629
+#: meta-data/cmb2/example-functions.php:666
+#@ cmb2
+msgid "field description (optional)"
+msgstr ""
+
+#: meta-data/cmb2/example-functions.php:143
+#@ cmb2
+msgid "Test Text Small"
+msgstr ""
+
+#: meta-data/cmb2/example-functions.php:156
+#@ cmb2
+msgid "Test Text Medium"
+msgstr ""
+
+#: meta-data/cmb2/example-functions.php:163
+#@ cmb2
+msgid "Read-only Disabled Field"
+msgstr ""
+
+#: meta-data/cmb2/example-functions.php:167
+#@ cmb2
+msgid "Hey there, I'm a read-only field"
+msgstr ""
+
+#: meta-data/cmb2/example-functions.php:176
+#@ cmb2
+msgid "Custom Rendered Field"
+msgstr ""
+
+#: meta-data/cmb2/example-functions.php:184
+#@ cmb2
+msgid "Website URL"
+msgstr ""
+
+#: meta-data/cmb2/example-functions.php:193
+#@ cmb2
+msgid "Test Text Email"
+msgstr ""
+
+#: meta-data/cmb2/example-functions.php:201
+#@ cmb2
+msgid "Test Time"
+msgstr ""
+
+#: meta-data/cmb2/example-functions.php:209
+#: meta-data/cmb2/example-functions.php:210
+#@ cmb2
+msgid "Time zone"
+msgstr ""
+
+#: meta-data/cmb2/example-functions.php:216
+#@ cmb2
+msgid "Test Date Picker"
+msgstr ""
+
+#: meta-data/cmb2/example-functions.php:224
+#@ cmb2
+msgid "Test Date Picker (UNIX timestamp)"
+msgstr ""
+
+#: meta-data/cmb2/example-functions.php:232
+#@ cmb2
+msgid "Test Date/Time Picker Combo (UNIX timestamp)"
+msgstr ""
+
+#: meta-data/cmb2/example-functions.php:249
+#@ cmb2
+msgid "Test Money"
+msgstr ""
+
+#: meta-data/cmb2/example-functions.php:258
+#@ cmb2
+msgid "Test Color Picker"
+msgstr ""
+
+#: meta-data/cmb2/example-functions.php:271
+#@ cmb2
+msgid "Test Text Area"
+msgstr ""
+
+#: meta-data/cmb2/example-functions.php:278
+#@ cmb2
+msgid "Test Text Area Small"
+msgstr ""
+
+#: meta-data/cmb2/example-functions.php:285
+#@ cmb2
+msgid "Test Text Area for Code"
+msgstr ""
+
+#: meta-data/cmb2/example-functions.php:292
+#@ cmb2
+msgid "Test Title Weeeee"
+msgstr ""
+
+#: meta-data/cmb2/example-functions.php:293
+#@ cmb2
+msgid "This is a title description"
+msgstr ""
+
+#: meta-data/cmb2/example-functions.php:299
+#@ cmb2
+msgid "Test Select"
+msgstr ""
+
+#: meta-data/cmb2/example-functions.php:305
+#: meta-data/cmb2/example-functions.php:318
+#: meta-data/cmb2/example-functions.php:330
+#@ cmb2
+msgid "Option One"
+msgstr ""
+
+#: meta-data/cmb2/example-functions.php:306
+#: meta-data/cmb2/example-functions.php:319
+#: meta-data/cmb2/example-functions.php:331
+#@ cmb2
+msgid "Option Two"
+msgstr ""
+
+#: meta-data/cmb2/example-functions.php:307
+#: meta-data/cmb2/example-functions.php:320
+#: meta-data/cmb2/example-functions.php:332
+#@ cmb2
+msgid "Option Three"
+msgstr ""
+
+#: meta-data/cmb2/example-functions.php:312
+#@ cmb2
+msgid "Test Radio inline"
+msgstr ""
+
+#: meta-data/cmb2/example-functions.php:325
+#@ cmb2
+msgid "Test Radio"
+msgstr ""
+
+#: meta-data/cmb2/example-functions.php:337
+#@ cmb2
+msgid "Test Taxonomy Radio"
+msgstr ""
+
+#: meta-data/cmb2/example-functions.php:346
+#@ cmb2
+msgid "Test Taxonomy Select"
+msgstr ""
+
+#: meta-data/cmb2/example-functions.php:354
+#@ cmb2
+msgid "Test Taxonomy Multi Checkbox"
+msgstr ""
+
+#: meta-data/cmb2/example-functions.php:363
+#@ cmb2
+msgid "Test Checkbox"
+msgstr ""
+
+#: meta-data/cmb2/example-functions.php:370
+#@ cmb2
+msgid "Test Multi Checkbox"
+msgstr ""
+
+#: meta-data/cmb2/example-functions.php:376
+#@ cmb2
+msgid "Check One"
+msgstr ""
+
+#: meta-data/cmb2/example-functions.php:377
+#@ cmb2
+msgid "Check Two"
+msgstr ""
+
+#: meta-data/cmb2/example-functions.php:378
+#@ cmb2
+msgid "Check Three"
+msgstr ""
+
+#: meta-data/cmb2/example-functions.php:384
+#@ cmb2
+msgid "Test wysiwyg"
+msgstr ""
+
+#: meta-data/cmb2/example-functions.php:392
+#@ cmb2
+msgid "Test Image"
+msgstr ""
+
+#: meta-data/cmb2/example-functions.php:393
+#@ cmb2
+msgid "Upload an image or enter a URL."
+msgstr ""
+
+#: meta-data/cmb2/example-functions.php:399
+#@ cmb2
+msgid "Multiple Files"
+msgstr ""
+
+#: meta-data/cmb2/example-functions.php:400
+#@ cmb2
+msgid "Upload or add multiple images/attachments."
+msgstr ""
+
+#: meta-data/cmb2/example-functions.php:407
+#@ cmb2
+msgid "oEmbed"
+msgstr ""
+
+#. translators: %s: link to codex.wordpress.org/Embeds
+#: meta-data/cmb2/example-functions.php:410
+#, php-format
+#@ cmb2
+msgid "Enter a youtube, twitter, or instagram URL. Supports services listed at %s."
+msgstr ""
+
+#: meta-data/cmb2/example-functions.php:443
+#@ cmb2
+msgid "About Page Metabox"
+msgstr ""
+
+#: meta-data/cmb2/example-functions.php:472
+#@ cmb2
+msgid "Repeating Field Group"
+msgstr ""
+
+#: meta-data/cmb2/example-functions.php:480
+#@ cmb2
+msgid "Generates reusable form entries"
+msgstr ""
+
+#: meta-data/cmb2/example-functions.php:482
+#@ cmb2
+msgid "Entry {#}"
+msgstr ""
+
+#: meta-data/cmb2/example-functions.php:483
+#@ cmb2
+msgid "Add Another Entry"
+msgstr ""
+
+#: meta-data/cmb2/example-functions.php:484
+#: meta-data/_group-meta-field.php:30
+#@ cmb2
+#@ lgx-event-point
+msgid "Remove Entry"
+msgstr ""
+
+#: meta-data/cmb2/example-functions.php:497
+#@ cmb2
+msgid "Entry Title"
+msgstr ""
+
+#: meta-data/cmb2/example-functions.php:505
+#@ cmb2
+msgid "Write a short description for this entry"
+msgstr ""
+
+#: meta-data/cmb2/example-functions.php:511
+#@ cmb2
+msgid "Entry Image"
+msgstr ""
+
+#: meta-data/cmb2/example-functions.php:517
+#@ cmb2
+msgid "Image Caption"
+msgstr ""
+
+#: meta-data/cmb2/example-functions.php:536
+#@ cmb2
+msgid "User Profile Metabox"
+msgstr ""
+
+#: meta-data/cmb2/example-functions.php:543
+#: meta-data/cmb2/example-functions.php:613
+#@ cmb2
+msgid "Extra Info"
+msgstr ""
+
+#: meta-data/cmb2/example-functions.php:551
+#@ cmb2
+msgid "Avatar"
+msgstr ""
+
+#: meta-data/cmb2/example-functions.php:558
+#@ cmb2
+msgid "Facebook URL"
+msgstr ""
+
+#: meta-data/cmb2/example-functions.php:565
+#@ cmb2
+msgid "Twitter URL"
+msgstr ""
+
+#: meta-data/cmb2/example-functions.php:572
+#@ cmb2
+msgid "Google+ URL"
+msgstr ""
+
+#: meta-data/cmb2/example-functions.php:579
+#@ cmb2
+msgid "Linkedin URL"
+msgstr ""
+
+#: meta-data/cmb2/example-functions.php:586
+#@ cmb2
+msgid "User Field"
+msgstr ""
+
+#: meta-data/cmb2/example-functions.php:606
+#@ cmb2
+msgid "Category Metabox"
+msgstr ""
+
+#: meta-data/cmb2/example-functions.php:621
+#@ cmb2
+msgid "Term Image"
+msgstr ""
+
+#: meta-data/cmb2/example-functions.php:628
+#@ cmb2
+msgid "Arbitrary Term Field"
+msgstr ""
+
+#: meta-data/cmb2/example-functions.php:650
+#@ cmb2
+msgid "Theme Options Metabox"
+msgstr ""
+
+#: meta-data/cmb2/example-functions.php:665
+#@ cmb2
+msgid "Site Background Color"
+msgstr ""
+
+#: meta-data/cmb2/example-functions.php:701
+#@ cmb2
+msgid "REST Test Box"
+msgstr ""
+
+#: meta-data/cmb2/example-functions.php:710
+#@ cmb2
+msgid "REST Test Text"
+msgstr ""
+
+#: meta-data/cmb2/example-functions.php:711
+#@ cmb2
+msgid "Will show in the REST API for this box and for pages."
+msgstr ""
+
+#: meta-data/cmb2/example-functions.php:717
+#@ cmb2
+msgid "REST Editable Test Text"
+msgstr ""
+
+#: meta-data/cmb2/example-functions.php:718
+#@ cmb2
+msgid "Will show in REST API \"editable\" contexts only (`POST` requests)."
+msgstr ""
+
+#: meta-data/cmb2/includes/CMB2_Ajax.php:71
+#@ cmb2
+msgid "Please Try Again"
+msgstr ""
+
+#: meta-data/cmb2/includes/CMB2_Ajax.php:173
+#@ cmb2
+msgid "Remove Embed"
+msgstr ""
+
+#. translators: 1: results for. 2: link to codex.wordpress.org/Embeds
+#: meta-data/cmb2/includes/CMB2_Ajax.php:181
+#: meta-data/cmb2/includes/helper-functions.php:99
+#, php-format
+#@ cmb2
+msgid "No oEmbed Results Found for %1$s. View more info at %2$s."
+msgstr ""
+
+#: meta-data/cmb2/includes/CMB2_Base.php:389
+#, php-format
+#@ cmb2
+msgid "The \"%s\" field parameter has been deprecated in favor of the \"%s\" parameter."
+msgstr ""
+
+#: meta-data/cmb2/includes/CMB2_Base.php:393
+#, php-format
+#@ cmb2
+msgid "Using the \"%s\" field parameter as a callback has been deprecated in favor of the \"%s\" parameter."
+msgstr ""
+
+#: meta-data/cmb2/includes/CMB2_Base.php:423
+#, php-format
+#@ cmb2
+msgid "%1$s was called with a parameter that is <strong>deprecated</strong> since version %2$s! %3$s"
+msgstr ""
+
+#: meta-data/cmb2/includes/CMB2_Base.php:426
+#, php-format
+#@ cmb2
+msgid "%1$s was called with a parameter that is <strong>deprecated</strong> since version %2$s with no alternative available."
+msgstr ""
+
+#: meta-data/cmb2/includes/CMB2_Base.php:459
+#: meta-data/cmb2/includes/types/CMB2_Type_Base.php:138
+#, php-format
+#@ cmb2
+msgid "Invalid %1$s property: %2$s"
+msgstr ""
+
+#: meta-data/cmb2/includes/CMB2_Base.php:473
+#: meta-data/cmb2/includes/types/CMB2_Type_Base.php:123
+#, php-format
+#@ cmb2
+msgid "Invalid %1$s method: %2$s"
+msgstr ""
+
+#: meta-data/cmb2/includes/CMB2_Field_Display.php:409
+#: meta-data/cmb2/includes/CMB2_JS.php:158
+#: meta-data/cmb2/includes/types/CMB2_Type_File_Base.php:75
+#@ cmb2
+msgid "File:"
+msgstr ""
+
+#: meta-data/cmb2/includes/CMB2_Field.php:1118
+#@ cmb2
+msgid "Add Group"
+msgstr ""
+
+#: meta-data/cmb2/includes/CMB2_Field.php:1119
+#@ cmb2
+msgid "Remove Group"
+msgstr ""
+
+#: meta-data/cmb2/includes/CMB2_Field.php:1141
+#: meta-data/cmb2/includes/CMB2_Field.php:1145
+#: meta-data/_simple-meta-field.php:262
+#@ cmb2
+#@ lgx-themential
+msgid "None"
+msgstr ""
+
+#: meta-data/cmb2/includes/CMB2_Field.php:1206
+#@ cmb2
+msgid "Sorry, this field does not have a cmb_id specified."
+msgstr ""
+
+#: meta-data/cmb2/includes/CMB2_hookup.php:148
+#@ cmb2
+msgid "Term Metadata is a WordPress 4.4+ feature. Please upgrade your WordPress install."
+msgstr ""
+
+#: meta-data/cmb2/includes/CMB2_hookup.php:152
+#@ cmb2
+msgid "Term metaboxes configuration requires a \"taxonomies\" parameter."
+msgstr ""
+
+#: meta-data/cmb2/includes/CMB2_hookup.php:389
+#, php-format
+#@ default
+msgid "Toggle panel: %s"
+msgstr ""
+
+#: meta-data/cmb2/includes/CMB2_JS.php:99
+#: meta-data/cmb2/includes/CMB2_JS.php:138
+#@ cmb2
+msgid "Clear"
+msgstr ""
+
+#: meta-data/cmb2/includes/CMB2_JS.php:102
+#@ cmb2
+msgid "Current Color"
+msgstr ""
+
+#: meta-data/cmb2/includes/CMB2_JS.php:128
+#@ cmb2
+msgctxt "Valid formatDate string for jquery-ui datepicker"
+msgid "mm/dd/yy"
+msgstr ""
+
+#: meta-data/cmb2/includes/CMB2_JS.php:129
+#@ cmb2
+msgid "Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday"
+msgstr ""
+
+#: meta-data/cmb2/includes/CMB2_JS.php:130
+#@ cmb2
+msgid "Su, Mo, Tu, We, Th, Fr, Sa"
+msgstr ""
+
+#: meta-data/cmb2/includes/CMB2_JS.php:131
+#@ cmb2
+msgid "Sun, Mon, Tue, Wed, Thu, Fri, Sat"
+msgstr ""
+
+#: meta-data/cmb2/includes/CMB2_JS.php:132
+#@ cmb2
+msgid "January, February, March, April, May, June, July, August, September, October, November, December"
+msgstr ""
+
+#: meta-data/cmb2/includes/CMB2_JS.php:133
+#@ cmb2
+msgid "Jan, Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov, Dec"
+msgstr ""
+
+#: meta-data/cmb2/includes/CMB2_JS.php:134
+#@ cmb2
+msgid "Next"
+msgstr ""
+
+#: meta-data/cmb2/includes/CMB2_JS.php:135
+#@ cmb2
+msgid "Prev"
+msgstr ""
+
+#: meta-data/cmb2/includes/CMB2_JS.php:136
+#@ cmb2
+msgid "Today"
+msgstr ""
+
+#: meta-data/cmb2/includes/CMB2_JS.php:137
+#: meta-data/cmb2/includes/CMB2_JS.php:147
+#@ cmb2
+msgid "Done"
+msgstr ""
+
+#: meta-data/cmb2/includes/CMB2_JS.php:141
+#@ cmb2
+msgid "Choose Time"
+msgstr ""
+
+#: meta-data/cmb2/includes/CMB2_JS.php:142
+#: meta-data/_simple-meta-field.php:113
+#@ cmb2
+#@ lgx-themential
+msgid "Time"
+msgstr ""
+
+#: meta-data/cmb2/includes/CMB2_JS.php:143
+#@ cmb2
+msgid "Hour"
+msgstr ""
+
+#: meta-data/cmb2/includes/CMB2_JS.php:144
+#@ cmb2
+msgid "Minute"
+msgstr ""
+
+#: meta-data/cmb2/includes/CMB2_JS.php:145
+#@ cmb2
+msgid "Second"
+msgstr ""
+
+#: meta-data/cmb2/includes/CMB2_JS.php:146
+#@ cmb2
+msgid "Now"
+msgstr ""
+
+#: meta-data/cmb2/includes/CMB2_JS.php:148
+#@ cmb2
+msgctxt "Valid formatting string, as per http://trentrichardson.com/examples/timepicker/"
+msgid "hh:mm TT"
+msgstr ""
+
+#: meta-data/cmb2/includes/CMB2_JS.php:154
+#@ cmb2
+msgid "Use this file"
+msgstr ""
+
+#: meta-data/cmb2/includes/CMB2_JS.php:155
+#@ cmb2
+msgid "Use these files"
+msgstr ""
+
+#: meta-data/cmb2/includes/CMB2_JS.php:156
+#: meta-data/cmb2/includes/types/CMB2_Type_File_Base.php:61
+#@ cmb2
+msgid "Remove Image"
+msgstr ""
+
+#: meta-data/cmb2/includes/CMB2_JS.php:159
+#: meta-data/cmb2/includes/types/CMB2_Type_File_Base.php:78
+#@ cmb2
+msgid "Download"
+msgstr ""
+
+#: meta-data/cmb2/includes/CMB2_JS.php:160
+#@ cmb2
+msgid "Select / Deselect All"
+msgstr ""
+
+#: meta-data/cmb2/includes/CMB2.php:127
+#@ cmb2
+msgid "Metabox configuration is required to have an ID parameter."
+msgstr ""
+
+#: meta-data/cmb2/includes/CMB2.php:470
+#@ cmb2
+msgid "Click to toggle"
+msgstr ""
+
+#: meta-data/cmb2/includes/CMB2_Types.php:220
+#@ cmb2
+msgid "Custom CMB2 field type classes must extend CMB2_Type_Base."
+msgstr ""
+
+#: meta-data/cmb2/includes/CMB2_Types.php:329
+#@ cmb2
+msgid "Add Row"
+msgstr ""
+
+#: meta-data/cmb2/includes/helper-functions.php:287
+#@ cmb2
+msgid "Save"
+msgstr ""
+
+#: meta-data/cmb2/includes/rest-api/CMB2_REST_Controller_Boxes.php:50
+#@ cmb2
+msgid "Includes the registered fields for the box in the response."
+msgstr ""
+
+#: meta-data/cmb2/includes/rest-api/CMB2_REST_Controller_Boxes.php:72
+#@ cmb2
+msgid "Includes the fully rendered attributes, 'form_open', 'form_close', as well as the enqueued 'js_dependencies' script handles, and 'css_dependencies' stylesheet handles."
+msgstr ""
+
+#: meta-data/cmb2/includes/rest-api/CMB2_REST_Controller_Boxes.php:122
+#@ cmb2
+msgid "No boxes found."
+msgstr ""
+
+#: meta-data/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:27
+#@ cmb2
+msgid "Includes the box object which the fields are registered to in the response."
+msgstr ""
+
+#: meta-data/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:30
+#@ cmb2
+msgid "When the '_rendered' argument is passed, the renderable field attributes will be returned fully rendered. By default, the names of the callback handers for the renderable attributes will be returned."
+msgstr ""
+
+#: meta-data/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:33
+#: meta-data/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:36
+#@ cmb2
+msgid "To view or modify the field's value, the 'object_id' and 'object_type' arguments are required."
+msgstr ""
+
+#: meta-data/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:236
+#@ cmb2
+msgid "CMB2 Field value cannot be updated without the value parameter specified."
+msgstr ""
+
+#: meta-data/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:295
+#@ cmb2
+msgid "CMB2 Field value cannot be modified without the object_id and object_type parameters specified."
+msgstr ""
+
+#: meta-data/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:308
+#: meta-data/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:335
+#@ cmb2
+msgid "No field found by that id."
+msgstr ""
+
+#: meta-data/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:407
+#, php-format
+#@ cmb2
+msgid "Value Error for %s"
+msgstr ""
+
+#: meta-data/cmb2/includes/rest-api/CMB2_REST_Controller.php:250
+#@ cmb2
+msgid "This box does not have read permissions."
+msgstr ""
+
+#: meta-data/cmb2/includes/rest-api/CMB2_REST_Controller.php:268
+#@ cmb2
+msgid "This box does not have write permissions."
+msgstr ""
+
+#: meta-data/cmb2/includes/rest-api/CMB2_REST_Controller.php:289
+#@ cmb2
+msgid "No box found by that id. A box needs to be registered with the \"show_in_rest\" parameter configured."
+msgstr ""
+
+#: meta-data/cmb2/includes/rest-api/CMB2_REST_Controller.php:365
+#@ cmb2
+msgid "A human-readable description of the object."
+msgstr ""
+
+#: meta-data/cmb2/includes/rest-api/CMB2_REST_Controller.php:370
+#@ cmb2
+msgid "The id for the object."
+msgstr ""
+
+#: meta-data/cmb2/includes/rest-api/CMB2_REST_Controller.php:375
+#@ cmb2
+msgid "The title for the object."
+msgstr ""
+
+#: meta-data/cmb2/includes/shim/WP_REST_Controller.php:24
+#@ default
+msgid "The register_routes() method must be overriden"
+msgstr ""
+
+#: meta-data/cmb2/includes/shim/WP_REST_Controller.php:34
+#: meta-data/cmb2/includes/shim/WP_REST_Controller.php:44
+#: meta-data/cmb2/includes/shim/WP_REST_Controller.php:54
+#: meta-data/cmb2/includes/shim/WP_REST_Controller.php:64
+#: meta-data/cmb2/includes/shim/WP_REST_Controller.php:74
+#: meta-data/cmb2/includes/shim/WP_REST_Controller.php:84
+#: meta-data/cmb2/includes/shim/WP_REST_Controller.php:94
+#: meta-data/cmb2/includes/shim/WP_REST_Controller.php:104
+#: meta-data/cmb2/includes/shim/WP_REST_Controller.php:114
+#: meta-data/cmb2/includes/shim/WP_REST_Controller.php:124
+#: meta-data/cmb2/includes/shim/WP_REST_Controller.php:134
+#: meta-data/cmb2/includes/shim/WP_REST_Controller.php:145
+#, php-format
+#@ default
+msgid "Method '%s' not implemented. Must be over-ridden in subclass."
+msgstr ""
+
+#: meta-data/cmb2/includes/shim/WP_REST_Controller.php:248
+#@ default
+msgid "Current page of the collection."
+msgstr ""
+
+#: meta-data/cmb2/includes/shim/WP_REST_Controller.php:256
+#@ default
+msgid "Maximum number of items to be returned in result set."
+msgstr ""
+
+#: meta-data/cmb2/includes/shim/WP_REST_Controller.php:265
+#@ default
+msgid "Limit results to those matching a string."
+msgstr ""
+
+#: meta-data/cmb2/includes/shim/WP_REST_Controller.php:283
+#@ default
+msgid "Scope under which the request is made; determines fields present in response."
+msgstr ""
+
+#: meta-data/cmb2/includes/types/CMB2_Type_File_List.php:39
+#@ cmb2
+msgid "Add or Upload Files"
+msgstr ""
+
+#: meta-data/cmb2/includes/types/CMB2_Type_File.php:40
+#@ cmb2
+msgid "Add or Upload File"
+msgstr ""
+
+#: meta-data/cmb2/includes/types/CMB2_Type_Taxonomy_Multicheck.php:27
+#: meta-data/cmb2/includes/types/CMB2_Type_Taxonomy_Radio.php:25
+#@ cmb2
+msgid "No terms"
+msgstr ""
+
+#. translators: plugin header field 'Name'
+#: meta-data/cmb2/init.php:0
+#@ cmb2
+msgid "CMB2"
+msgstr ""
+
+#. translators: plugin header field 'PluginURI'
+#: meta-data/cmb2/init.php:0
+#@ cmb2
+msgid "https://github.com/WebDevStudios/CMB2"
+msgstr ""
+
+#. translators: plugin header field 'Description'
+#: meta-data/cmb2/init.php:0
+#@ cmb2
+msgid "CMB2 will create metaboxes and forms with custom fields that will blow your mind."
+msgstr ""
+
+#. translators: plugin header field 'Author'
+#: meta-data/cmb2/init.php:0
+#@ cmb2
+msgid "WebDevStudios"
+msgstr ""
+
+#. translators: plugin header field 'AuthorURI'
+#: meta-data/cmb2/init.php:0
+#@ cmb2
+msgid "http://webdevstudios.com"
+msgstr ""
+
+#. translators: plugin header field 'Version'
+#: meta-data/cmb2/init.php:0
+#@ cmb2
+msgid "2.2.4"
+msgstr ""
+
+#: meta-data/_group-meta-field.php:17
+#@ lgx-event-point
+msgid "Repeating Pricing Table List Field"
+msgstr ""
+
+#: meta-data/_group-meta-field.php:26
+#@ lgx-event-point
+msgid "Add Table Information"
+msgstr ""
+
+#: meta-data/_group-meta-field.php:28
+#@ lgx-event-point
+msgid "List Text {#}"
+msgstr ""
+
+#: meta-data/_group-meta-field.php:29
+#@ lgx-event-point
+msgid "Add New Line"
+msgstr ""
+
+#: meta-data/_group-meta-field.php:44
+#@ lgx-event-point
+msgid "List Text"
+msgstr ""
+
+#: meta-data/_group-meta-field.php:53
+#@ lgx-themential
+msgid "List Style"
+msgstr ""
+
+#: meta-data/_group-meta-field.php:57
+#: meta-data/_simple-meta-field.php:134
+#: vc_extend/extend_vc.php:8
+#@ lgx-themential
+#@ lgx-event-point
+msgid "Yes"
+msgstr ""
+
+#: meta-data/_group-meta-field.php:58
+#@ lgx-themential
+msgid "No"
+msgstr ""
+
+#: meta-data/_simple-meta-field.php:9
+#@ lgx-themential
+msgid "Add Custom Information"
+msgstr ""
+
+#: meta-data/_simple-meta-field.php:13
+#@ lgx-themential
+msgid "Company Name"
+msgstr ""
+
+#: meta-data/_simple-meta-field.php:14
+#@ lgx-themential
+msgid "Please Company Name"
+msgstr ""
+
+#: meta-data/_simple-meta-field.php:20
+#@ lgx-themential
+msgid "Designation"
+msgstr ""
+
+#: meta-data/_simple-meta-field.php:21
+#@ lgx-themential
+msgid "Please Add Designation"
+msgstr ""
+
+#: meta-data/_simple-meta-field.php:27
+#@ lgx-themential
+msgid "Twitter Url"
+msgstr ""
+
+#: meta-data/_simple-meta-field.php:28
+#@ lgx-themential
+msgid "Please Add Twitter Profile Url "
+msgstr ""
+
+#: meta-data/_simple-meta-field.php:33
+#@ lgx-themential
+msgid "Facebook Url"
+msgstr ""
+
+#: meta-data/_simple-meta-field.php:34
+#@ lgx-themential
+msgid "Please Add Facebook Profile Url "
+msgstr ""
+
+#: meta-data/_simple-meta-field.php:39
+#@ lgx-themential
+msgid "Instagram Url"
+msgstr ""
+
+#: meta-data/_simple-meta-field.php:40
+#@ lgx-themential
+msgid "Please Add Instagram Profile Url "
+msgstr ""
+
+#: meta-data/_simple-meta-field.php:45
+#@ lgx-themential
+msgid "Linkedin Url"
+msgstr ""
+
+#: meta-data/_simple-meta-field.php:46
+#@ lgx-themential
+msgid "Please Add Linkedin Profile Url "
+msgstr ""
+
+#: meta-data/_simple-meta-field.php:56
+#@ lgx-themential
+msgid "Add Client Information"
+msgstr ""
+
+#: meta-data/_simple-meta-field.php:60
+#@ lgx-themential
+msgid "Client Name"
+msgstr ""
+
+#: meta-data/_simple-meta-field.php:61
+#@ lgx-themential
+msgid "Please Add Client Name."
+msgstr ""
+
+#: meta-data/_simple-meta-field.php:67
+#@ lgx-themential
+msgid "Client Designation"
+msgstr ""
+
+#: meta-data/_simple-meta-field.php:68
+#@ lgx-themential
+msgid "Please Add Client Designation"
+msgstr ""
+
+#: meta-data/_simple-meta-field.php:77
+#@ lgx-themential
+msgid "Post Format"
+msgstr ""
+
+#: meta-data/_simple-meta-field.php:81
+#@ lgx-themential
+msgid "Video Url"
+msgstr ""
+
+#: meta-data/_simple-meta-field.php:82
+#@ lgx-themential
+msgid "Put youtube video embeded src here."
+msgstr ""
+
+#: meta-data/_simple-meta-field.php:87
+#@ lgx-themential
+msgid "Audio Url"
+msgstr ""
+
+#: meta-data/_simple-meta-field.php:88
+#@ lgx-themential
+msgid "Put soundclud embeded src here."
+msgstr ""
+
+#: meta-data/_simple-meta-field.php:93
+#@ lgx-themential
+msgid "Quote Text"
+msgstr ""
+
+#: meta-data/_simple-meta-field.php:94
+#@ lgx-themential
+msgid "Put quote text here."
+msgstr ""
+
+#: meta-data/_simple-meta-field.php:99
+#@ lgx-themential
+msgid "Gallery"
+msgstr ""
+
+#: meta-data/_simple-meta-field.php:100
+#@ lgx-themential
+msgid "Upload Gallery Images Here. Upload max 3 images accoridng to desing."
+msgstr ""
+
+#: meta-data/_simple-meta-field.php:109
+#@ lgx-themential
+msgid "Add Schedule Information"
+msgstr ""
+
+#: meta-data/_simple-meta-field.php:114
+#@ lgx-themential
+msgid "Please Add Time"
+msgstr ""
+
+#: meta-data/_simple-meta-field.php:120
+#@ lgx-themential
+msgid "Select First Speaker"
+msgstr ""
+
+#: meta-data/_simple-meta-field.php:121
+#@ lgx-themential
+msgid "Please Select First Speaker"
+msgstr ""
+
+#: meta-data/_simple-meta-field.php:128
+#@ lgx-themential
+msgid "Show  Second Speaker"
+msgstr ""
+
+#: meta-data/_simple-meta-field.php:129
+#@ lgx-themential
+msgid "Second Speaker in frontend."
+msgstr ""
+
+#: meta-data/_simple-meta-field.php:133
+#@ lgx-themential
+msgid "NO"
+msgstr ""
+
+#: meta-data/_simple-meta-field.php:140
+#@ lgx-themential
+msgid "Select Second Speaker"
+msgstr ""
+
+#: meta-data/_simple-meta-field.php:141
+#@ lgx-themential
+msgid "Please Select Second Speaker"
+msgstr ""
+
+#: meta-data/_simple-meta-field.php:152
+#@ lgx-themential
+msgid "Page Settings"
+msgstr ""
+
+#: meta-data/_simple-meta-field.php:156
+#@ lgx-themential
+msgid "Header Style"
+msgstr ""
+
+#: meta-data/_simple-meta-field.php:162
+#@ lgx-themential
+msgid "Banner Big"
+msgstr ""
+
+#: meta-data/_simple-meta-field.php:163
+#@ lgx-themential
+msgid "Banner Small"
+msgstr ""
+
+#: meta-data/_simple-meta-field.php:164
+#@ lgx-themential
+msgid "Typed"
+msgstr ""
+
+#: meta-data/_simple-meta-field.php:165
+#@ lgx-themential
+msgid "Slider"
+msgstr ""
+
+#: meta-data/_simple-meta-field.php:166
+#@ lgx-themential
+msgid "Content Slider"
+msgstr ""
+
+#: meta-data/_simple-meta-field.php:167
+#@ lgx-themential
+msgid "Gradiant"
+msgstr ""
+
+#: meta-data/_simple-meta-field.php:168
+#@ lgx-themential
+msgid "Revolution Slider"
+msgstr ""
+
+#: meta-data/_simple-meta-field.php:169
+#@ lgx-themential
+msgid "Christmas"
+msgstr ""
+
+#: meta-data/_simple-meta-field.php:174
+#@ lgx-themential
+msgid "Rev Slider Alias"
+msgstr ""
+
+#: meta-data/_simple-meta-field.php:179
+#@ lgx-themential
+msgid "Select any One, Which One You want to display"
+msgstr ""
+
+#: meta-data/_simple-meta-field.php:183
+#@ lgx-themential
+msgid "Banner Image Bottom"
+msgstr ""
+
+#: meta-data/_simple-meta-field.php:185
+#: meta-data/_simple-meta-field.php:191
+#@ lgx-themential
+msgid "Upload page banner"
+msgstr ""
+
+#: meta-data/_simple-meta-field.php:189
+#@ lgx-themential
+msgid "Banner Image Top"
+msgstr ""
+
+#: meta-data/_simple-meta-field.php:195
+#@ lgx-themential
+msgid "Banner Title"
+msgstr ""
+
+#: meta-data/_simple-meta-field.php:197
+#@ lgx-themential
+msgid "Write page title here."
+msgstr ""
+
+#: meta-data/_simple-meta-field.php:205
+#@ lgx-themential
+msgid "Sidebar Settings"
+msgstr ""
+
+#: meta-data/_simple-meta-field.php:210
+#@ lgx-themential
+msgid "Sidebar Layout"
+msgstr ""
+
+#: meta-data/_simple-meta-field.php:211
+#@ lgx-themential
+msgid "Select sidebar from here."
+msgstr ""
+
+#: meta-data/_simple-meta-field.php:216
+#@ lgx-themential
+msgid "Left Sidebar"
+msgstr ""
+
+#: meta-data/_simple-meta-field.php:217
+#@ lgx-themential
+msgid "Right Sidebar"
+msgstr ""
+
+#: meta-data/_simple-meta-field.php:218
+#@ lgx-themential
+msgid "Box Layout"
+msgstr ""
+
+#: meta-data/_simple-meta-field.php:219
+#@ lgx-themential
+msgid "Full Width"
+msgstr ""
+
+#: meta-data/_simple-meta-field.php:227
+#@ lgx-themential
+msgid "Pricing Box Makes Recommended"
+msgstr ""
+
+#: meta-data/_simple-meta-field.php:231
+#: meta-data/_simple-meta-field.php:277
+#: meta-data/_simple-meta-field.php:297
+#@ lgx-themential
+msgid "Sub Title"
+msgstr ""
+
+#: meta-data/_simple-meta-field.php:232
+#@ lgx-themential
+msgid "Please Add Sub Title"
+msgstr ""
+
+#: meta-data/_simple-meta-field.php:237
+#@ lgx-themential
+msgid "Ticket Price"
+msgstr ""
+
+#: meta-data/_simple-meta-field.php:238
+#@ lgx-themential
+msgid "Please Add Ticket Price ($)"
+msgstr ""
+
+#: meta-data/_simple-meta-field.php:244
+#@ lgx-themential
+msgid "Currency Symbol"
+msgstr ""
+
+#: meta-data/_simple-meta-field.php:245
+#@ lgx-themential
+msgid "Please Add Currency Symbol in Text"
+msgstr ""
+
+#: meta-data/_simple-meta-field.php:251
+#@ lgx-themential
+msgid "Buy URL"
+msgstr ""
+
+#: meta-data/_simple-meta-field.php:252
+#@ lgx-themential
+msgid "Please Add Ticket URL"
+msgstr ""
+
+#: meta-data/_simple-meta-field.php:257
+#@ lgx-themential
+msgid "Pricing Box"
+msgstr ""
+
+#: meta-data/_simple-meta-field.php:261
+#@ lgx-themential
+msgid "Recommended"
+msgstr ""
+
+#: meta-data/_simple-meta-field.php:273
+#@ lgx-themential
+msgid "Slider Information"
+msgstr ""
+
+#: meta-data/_simple-meta-field.php:278
+#: meta-data/_simple-meta-field.php:284
+#: meta-data/_simple-meta-field.php:298
+#@ lgx-themential
+msgid "Write Subtitle here."
+msgstr ""
+
+#: meta-data/_simple-meta-field.php:283
+#@ lgx-themential
+msgid "Sub Title 2"
+msgstr ""
+
+#: meta-data/_simple-meta-field.php:293
+#@ lgx-themential
+msgid "Slider Setings"
+msgstr ""
+
+#: meta-data/_simple-meta-field.php:304
+#@ lgx-themential
+msgid "Center"
+msgstr ""
+
+#: meta-data/_simple-meta-field.php:328
+#@ lgx
+msgid "No Alias found"
+msgstr ""
+
+#: one-click-demo/importer/parsers.php:42
+#: one-click-demo/importer/parsers.php:63
+#@ radium
+msgid "There was an error when reading this WXR file"
+msgstr ""
+
+#: one-click-demo/importer/parsers.php:43
+#@ radium
+msgid "Details are shown above. The importer will now try again with a different parser..."
+msgstr ""
+
+#: one-click-demo/importer/parsers.php:67
+#: one-click-demo/importer/parsers.php:72
+#: one-click-demo/importer/parsers.php:262
+#: one-click-demo/importer/parsers.php:447
+#@ radium
+msgid "This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+
+#: one-click-demo/importer/radium-importer.php:177
+#@ radium
+msgid ""
+"Importing demo data (post, pages, images, theme settings, ...) is the easiest way to setup your theme. It will\n"
+"\t\t\t    allow you to quickly edit everything instead of creating content from scratch. When you import the data following things will happen:"
+msgstr ""
+
+#: one-click-demo/importer/radium-importer.php:181
+#@ radium
+msgid "No existing posts, pages, categories, images, custom post types or any other data will be deleted or modified ."
+msgstr ""
+
+#: one-click-demo/importer/radium-importer.php:182
+#@ radium
+msgid "No WordPress settings will be modified ."
+msgstr ""
+
+#: one-click-demo/importer/radium-importer.php:183
+#@ radium
+msgid "Posts, pages, some images, some widgets and menus will get imported ."
+msgstr ""
+
+#: one-click-demo/importer/radium-importer.php:184
+#@ radium
+msgid "Images will be downloaded from our server, these images are copyrighted and are for demo use only ."
+msgstr ""
+
+#: one-click-demo/importer/radium-importer.php:185
+#@ radium
+msgid "Please click import only once and wait, it can take a couple of minutes"
+msgstr ""
+
+#: one-click-demo/importer/radium-importer.php:189
+#@ radium
+msgid "Before you begin, make sure all the required plugins are activated."
+msgstr ""
+
+#: one-click-demo/importer/radium-importer.php:196
+#@ radium
+msgid "Demo already imported"
+msgstr ""
+
+#: one-click-demo/importer/radium-importer.php:216
+#@ radium
+msgid "Import Again"
+msgstr ""
+
+#: one-click-demo/importer/radium-importer.php:220
+#: one-click-demo/importer/radium-importer.php:225
+#@ radium
+msgid "Import Demo Data"
+msgstr ""
+
+#: one-click-demo/importer/radium-importer.php:360
+#@ radium
+msgid "The XML file containing the dummy content is not available or could not be read .. You might want to try to set the file permission to chmod 755.<br/>If this doesn't work please use the Wordpress importer and import the XML file (should be located in your download .zip: Sample Content folder) manually "
+msgstr ""
+
+#: one-click-demo/importer/radium-importer.php:428
+#@ radium
+msgid "Theme options Import file could not be found. Please try again."
+msgstr ""
+
+#: one-click-demo/importer/radium-importer.php:486
+#@ radium
+msgid "Widget Import file could not be found. Please try again."
+msgstr ""
+
+#: one-click-demo/importer/radium-importer.php:559
+#@ radium
+msgid "Sidebar does not exist in theme (using Inactive)"
+msgstr ""
+
+#: one-click-demo/importer/radium-importer.php:581
+#@ radium
+msgid "Site does not support widget"
+msgstr ""
+
+#: one-click-demo/importer/radium-importer.php:604
+#@ radium
+msgid "Widget already exists"
+msgstr ""
+
+#: one-click-demo/importer/radium-importer.php:653
+#@ radium
+msgid "Imported"
+msgstr ""
+
+#: one-click-demo/importer/radium-importer.php:656
+#@ radium
+msgid "Imported to Inactive"
+msgstr ""
+
+#: one-click-demo/importer/wordpress-importer.php:124
+#: one-click-demo/importer/wordpress-importer.php:133
+#: one-click-demo/importer/wordpress-importer.php:184
+#: one-click-demo/importer/wordpress-importer.php:188
+#: one-click-demo/importer/wordpress-importer.php:197
+#@ radium
+msgid "Sorry, there has been an error."
+msgstr ""
+
+#: one-click-demo/importer/wordpress-importer.php:125
+#@ radium
+msgid "The file does not exist, please try again."
+msgstr ""
+
+#: one-click-demo/importer/wordpress-importer.php:168
+#@ radium
+msgid "All done."
+msgstr ""
+
+#: one-click-demo/importer/wordpress-importer.php:168
+#@ radium
+msgid "Have fun!"
+msgstr ""
+
+#: one-click-demo/importer/wordpress-importer.php:169
+#@ radium
+msgid "Remember to update the passwords and roles of imported users."
+msgstr ""
+
+#: one-click-demo/importer/wordpress-importer.php:189
+#, php-format
+#@ radium
+msgid "The export file could not be found at <code>%s</code>. It is likely that this was caused by a permissions problem."
+msgstr ""
+
+#: one-click-demo/importer/wordpress-importer.php:205
+#, php-format
+#@ radium
+msgid "This WXR file (version %s) may not be supported by this version of the importer. Please consider updating."
+msgstr ""
+
+#: one-click-demo/importer/wordpress-importer.php:230
+#, php-format
+#@ radium
+msgid "Failed to import author %s. Their posts will be attributed to the current user."
+msgstr ""
+
+#: one-click-demo/importer/wordpress-importer.php:256
+#@ radium
+msgid "Assign Authors"
+msgstr ""
+
+#: one-click-demo/importer/wordpress-importer.php:257
+#@ radium
+msgid "To make it easier for you to edit and save the imported content, you may want to reassign the author of the imported item to an existing user of this site. For example, you may want to import all the entries as <code>admin</code>s entries."
+msgstr ""
+
+#: one-click-demo/importer/wordpress-importer.php:259
+#, php-format
+#@ radium
+msgid "If a new user is created by WordPress, a new password will be randomly generated and the new user&#8217;s role will be set as %s. Manually changing the new user&#8217;s details will be necessary."
+msgstr ""
+
+#: one-click-demo/importer/wordpress-importer.php:269
+#@ radium
+msgid "Import Attachments"
+msgstr ""
+
+#: one-click-demo/importer/wordpress-importer.php:272
+#@ radium
+msgid "Download and import file attachments"
+msgstr ""
+
+#: one-click-demo/importer/wordpress-importer.php:276
+#@ radium
+msgid "Submit"
+msgstr ""
+
+#: one-click-demo/importer/wordpress-importer.php:289
+#@ radium
+msgid "Import author:"
+msgstr ""
+
+#: one-click-demo/importer/wordpress-importer.php:300
+#@ radium
+msgid "or create new user with login name:"
+msgstr ""
+
+#: one-click-demo/importer/wordpress-importer.php:303
+#@ radium
+msgid "as a new user:"
+msgstr ""
+
+#: one-click-demo/importer/wordpress-importer.php:311
+#@ radium
+msgid "assign posts to an existing user:"
+msgstr ""
+
+#: one-click-demo/importer/wordpress-importer.php:313
+#@ radium
+msgid "or assign posts to an existing user:"
+msgstr ""
+
+#: one-click-demo/importer/wordpress-importer.php:314
+#@ radium
+msgid "- Select -"
+msgstr ""
+
+#: one-click-demo/importer/wordpress-importer.php:364
+#, php-format
+#@ radium
+msgid "Failed to create new user for %s. Their posts will be attributed to the current user."
+msgstr ""
+
+#: one-click-demo/importer/wordpress-importer.php:413
+#, php-format
+#@ radium
+msgid "Failed to import category %s"
+msgstr ""
+
+#: one-click-demo/importer/wordpress-importer.php:451
+#, php-format
+#@ radium
+msgid "Failed to import post tag %s"
+msgstr ""
+
+#: one-click-demo/importer/wordpress-importer.php:495
+#: one-click-demo/importer/wordpress-importer.php:621
+#, php-format
+#@ radium
+msgid "Failed to import %s %s"
+msgstr ""
+
+#: one-click-demo/importer/wordpress-importer.php:517
+#, php-format
+#@ radium
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr ""
+
+#: one-click-demo/importer/wordpress-importer.php:538
+#, php-format
+#@ radium
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr ""
+
+#: one-click-demo/importer/wordpress-importer.php:593
+#, php-format
+#@ radium
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr ""
+
+#: one-click-demo/importer/wordpress-importer.php:739
+#@ radium
+msgid "Menu item skipped due to missing menu slug"
+msgstr ""
+
+#: one-click-demo/importer/wordpress-importer.php:746
+#, php-format
+#@ radium
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr ""
+
+#: one-click-demo/importer/wordpress-importer.php:809
+#@ radium
+msgid "Fetching attachments is not enabled"
+msgstr ""
+
+#: one-click-demo/importer/wordpress-importer.php:822
+#@ radium
+msgid "Invalid file type"
+msgstr ""
+
+#: one-click-demo/importer/wordpress-importer.php:880
+#, php-format
+#@ radium
+msgid "Remote server returned %1$d %2$s for %3$s"
+msgstr ""
+
+#: one-click-demo/importer/wordpress-importer.php:893
+#@ radium
+msgid "Remote file is incorrect size"
+msgstr ""
+
+#: one-click-demo/importer/wordpress-importer.php:898
+#@ radium
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: one-click-demo/importer/wordpress-importer.php:904
+#, php-format
+#@ radium
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: one-click-demo/importer/wordpress-importer.php:1004
+#@ radium
+msgid "Import WordPress"
+msgstr ""
+
+#: one-click-demo/importer/wordpress-importer.php:1011
+#, php-format
+#@ radium
+msgid "A new version of this importer is available. Please update to version %s to ensure compatibility with newer export files."
+msgstr ""
+
+#: one-click-demo/importer/wordpress-importer.php:1026
+#@ radium
+msgid "Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import the posts, pages, comments, custom fields, categories, and tags into this site."
+msgstr ""
+
+#: one-click-demo/importer/wordpress-importer.php:1027
+#@ radium
+msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
+msgstr ""
+
+#: post-type/lgx-gallery.php:24
+#: post-type/lgx-gallery.php:25
+#@ lgx-themential
+msgctxt "Gallery"
+msgid "Gallery"
+msgstr ""
+
+#: post-type/lgx-gallery.php:26
+#: vc-addons/lgx-photo-gallery.php:95
+#@ lgx-themential
+msgid "Photo Gallery"
+msgstr ""
+
+#: post-type/lgx-gallery.php:27
+#@ lgx-themential
+msgid "Parent Gallery:"
+msgstr ""
+
+#: post-type/lgx-gallery.php:28
+#@ lgx-themential
+msgid "All Gallery"
+msgstr ""
+
+#: post-type/lgx-gallery.php:29
+#@ lgx-themential
+msgid "View Gallery"
+msgstr ""
+
+#: post-type/lgx-gallery.php:30
+#@ lgx-themential
+msgid "Add New Gallery"
+msgstr ""
+
+#: post-type/lgx-gallery.php:31
+#: post-type/lgx-pricing.php:30
+#: post-type/lgx-schedule.php:31
+#: post-type/lgx-slider.php:30
+#: post-type/lgx-speaker.php:30
+#: post-type/lgx-testimonial.php:30
+#@ lgx-themential
+msgid "Add New"
+msgstr ""
+
+#: post-type/lgx-gallery.php:32
+#@ lgx-themential
+msgid "Edit Gallery"
+msgstr ""
+
+#: post-type/lgx-gallery.php:33
+#@ lgx-themential
+msgid "Update Gallery"
+msgstr ""
+
+#: post-type/lgx-gallery.php:34
+#@ lgx-themential
+msgid "Search Gallery"
+msgstr ""
+
+#: post-type/lgx-gallery.php:35
+#: post-type/lgx-schedule.php:35
+#: post-type/lgx-testimonial.php:34
+#@ lgx-themential
+msgid "No article found"
+msgstr ""
+
+#: post-type/lgx-gallery.php:36
+#: post-type/lgx-schedule.php:36
+#: post-type/lgx-testimonial.php:35
+#@ lgx-themential
+msgid "No article found in Trash"
+msgstr ""
+
+#: post-type/lgx-pricing.php:23
+#: post-type/lgx-pricing.php:24
+#@ lgx-themential
+msgctxt "Pricing"
+msgid "Pricing"
+msgstr ""
+
+#: post-type/lgx-pricing.php:25
+#@ Pricing
+msgid "Pricing"
+msgstr ""
+
+#: post-type/lgx-pricing.php:26
+#@ lgx-themential
+msgid "Parent Pricing:"
+msgstr ""
+
+#: post-type/lgx-pricing.php:27
+#@ lgx-themential
+msgid "All Pricing"
+msgstr ""
+
+#: post-type/lgx-pricing.php:28
+#@ lgx-themential
+msgid "View Pricing"
+msgstr ""
+
+#: post-type/lgx-pricing.php:29
+#@ lgx-themential
+msgid "Add New Pricing"
+msgstr ""
+
+#: post-type/lgx-pricing.php:31
+#@ lgx-themential
+msgid "Edit Pricing"
+msgstr ""
+
+#: post-type/lgx-pricing.php:32
+#@ lgx-themential
+msgid "Update Pricing"
+msgstr ""
+
+#: post-type/lgx-pricing.php:33
+#@ lgx-themential
+msgid "Search Pricing"
+msgstr ""
+
+#: post-type/lgx-pricing.php:34
+#@ lgx-themential
+msgid "No Pricing found"
+msgstr ""
+
+#: post-type/lgx-pricing.php:35
+#@ lgx-themential
+msgid "No Pricing found in Trash"
+msgstr ""
+
+#: post-type/lgx-pricing.php:66
+#: post-type/lgx-schedule.php:67
+#@ lgx-themential
+msgctxt "Category"
+msgid "Categories"
+msgstr ""
+
+#: post-type/lgx-pricing.php:67
+#: post-type/lgx-schedule.php:68
+#@ lgx-themential
+msgctxt "Category"
+msgid "Category"
+msgstr ""
+
+#: post-type/lgx-pricing.php:68
+#: post-type/lgx-schedule.php:69
+#@ lgx-themential
+msgid "Search Category"
+msgstr ""
+
+#: post-type/lgx-pricing.php:69
+#: post-type/lgx-schedule.php:70
+#@ lgx-themential
+msgid "All Category"
+msgstr ""
+
+#: post-type/lgx-pricing.php:70
+#: post-type/lgx-schedule.php:71
+#@ lgx-themential
+msgid "Parent Category"
+msgstr ""
+
+#: post-type/lgx-pricing.php:71
+#: post-type/lgx-schedule.php:72
+#@ lgx-themential
+msgid "Parent Category:"
+msgstr ""
+
+#: post-type/lgx-pricing.php:72
+#: post-type/lgx-schedule.php:73
+#@ lgx-themential
+msgid "Edit Category"
+msgstr ""
+
+#: post-type/lgx-pricing.php:73
+#: post-type/lgx-schedule.php:74
+#@ lgx-themential
+msgid "Update Category"
+msgstr ""
+
+#: post-type/lgx-pricing.php:74
+#: post-type/lgx-schedule.php:75
+#@ lgx-themential
+msgid "Add New Category"
+msgstr ""
+
+#: post-type/lgx-pricing.php:75
+#: post-type/lgx-schedule.php:76
+#@ lgx-themential
+msgid "New Category Name"
+msgstr ""
+
+#: post-type/lgx-pricing.php:76
+#: post-type/lgx-schedule.php:77
+#@ lgx-themential
+msgid "Categories"
+msgstr ""
+
+#: post-type/lgx-schedule.php:24
+#: post-type/lgx-schedule.php:25
+#@ lgx-themential
+msgctxt "Schedule"
+msgid "Schedule"
+msgstr ""
+
+#: post-type/lgx-schedule.php:26
+#@ Schedule
+msgid "Schedule"
+msgstr ""
+
+#: post-type/lgx-schedule.php:27
+#@ lgx-themential
+msgid "Parent Schedule:"
+msgstr ""
+
+#: post-type/lgx-schedule.php:28
+#@ lgx-themential
+msgid "All Schedule"
+msgstr ""
+
+#: post-type/lgx-schedule.php:29
+#@ lgx-themential
+msgid "View Schedule"
+msgstr ""
+
+#: post-type/lgx-schedule.php:30
+#@ lgx-themential
+msgid "Add New Schedule"
+msgstr ""
+
+#: post-type/lgx-schedule.php:32
+#@ lgx-themential
+msgid "Edit Schedule"
+msgstr ""
+
+#: post-type/lgx-schedule.php:33
+#@ lgx-themential
+msgid "Update Schedule"
+msgstr ""
+
+#: post-type/lgx-schedule.php:34
+#@ lgx-themential
+msgid "Search Schedule"
+msgstr ""
+
+#: post-type/lgx-slider.php:24
+#: post-type/lgx-slider.php:25
+#: post-type/lgx-slider.php:27
+#@ lgx-themential
+msgctxt "Slider"
+msgid "Slider"
+msgstr ""
+
+#: post-type/lgx-slider.php:26
+#@ lgx-themential
+msgctxt "Slider"
+msgid "Sliders"
+msgstr ""
+
+#: post-type/lgx-slider.php:28
+#@ lgx-themential
+msgctxt "Slider"
+msgid "Add New"
+msgstr ""
+
+#: post-type/lgx-slider.php:29
+#@ lgx-themential
+msgid "Add New Slider"
+msgstr ""
+
+#: post-type/lgx-slider.php:31
+#@ lgx-themential
+msgid "Edit Slider"
+msgstr ""
+
+#: post-type/lgx-slider.php:32
+#@ lgx-themential
+msgid "View Slider"
+msgstr ""
+
+#: post-type/lgx-slider.php:33
+#@ lgx-themential
+msgid "All Slider"
+msgstr ""
+
+#: post-type/lgx-slider.php:34
+#@ lgx-themential
+msgid "Search Slider"
+msgstr ""
+
+#: post-type/lgx-slider.php:35
+#@ lgx-themential
+msgid "Parent Slider:"
+msgstr ""
+
+#: post-type/lgx-slider.php:36
+#@ lgx-themential
+msgid "No Slider found."
+msgstr ""
+
+#: post-type/lgx-slider.php:37
+#@ lgx-themential
+msgid "No Slider found in Trash."
+msgstr ""
+
+#: post-type/lgx-slider.php:42
+#: post-type/lgx-speaker.php:42
+#@ lgx-themential
+msgid "Description."
+msgstr ""
+
+#: post-type/lgx-speaker.php:24
+#: post-type/lgx-speaker.php:25
+#: post-type/lgx-speaker.php:27
+#@ lgx-themential
+msgctxt "Speaker"
+msgid "Speaker"
+msgstr ""
+
+#: post-type/lgx-speaker.php:26
+#@ lgx-themential
+msgctxt "Speaker"
+msgid "Speakers"
+msgstr ""
+
+#: post-type/lgx-speaker.php:28
+#@ lgx-themential
+msgctxt "Speaker"
+msgid "Add New"
+msgstr ""
+
+#: post-type/lgx-speaker.php:29
+#@ lgx-themential
+msgid "Add New Speaker"
+msgstr ""
+
+#: post-type/lgx-speaker.php:31
+#@ lgx-themential
+msgid "Edit Speaker"
+msgstr ""
+
+#: post-type/lgx-speaker.php:32
+#@ lgx-themential
+msgid "View Speaker"
+msgstr ""
+
+#: post-type/lgx-speaker.php:33
+#@ lgx-themential
+msgid "All Speaker"
+msgstr ""
+
+#: post-type/lgx-speaker.php:34
+#@ lgx-themential
+msgid "Search Speaker"
+msgstr ""
+
+#: post-type/lgx-speaker.php:35
+#@ lgx-themential
+msgid "Parent Speaker:"
+msgstr ""
+
+#: post-type/lgx-speaker.php:36
+#@ lgx-themential
+msgid "No Speaker found."
+msgstr ""
+
+#: post-type/lgx-speaker.php:37
+#@ lgx-themential
+msgid "No Speaker found in Trash."
+msgstr ""
+
+#: post-type/lgx-testimonial.php:23
+#: post-type/lgx-testimonial.php:24
+#@ lgx-themential
+msgctxt "Testimonial"
+msgid "Testimonial"
+msgstr ""
+
+#: post-type/lgx-testimonial.php:25
+#: vc-addons/lgx-testimonial.php:99
+#@ lgx-themential
+msgid "Testimonial"
+msgstr ""
+
+#: post-type/lgx-testimonial.php:26
+#@ lgx-themential
+msgid "Parent Testimonial:"
+msgstr ""
+
+#: post-type/lgx-testimonial.php:27
+#@ lgx-themential
+msgid "All Testimonial"
+msgstr ""
+
+#: post-type/lgx-testimonial.php:28
+#@ lgx-themential
+msgid "View Testimonial"
+msgstr ""
+
+#: post-type/lgx-testimonial.php:29
+#@ lgx-themential
+msgid "Add New Testimonial"
+msgstr ""
+
+#: post-type/lgx-testimonial.php:31
+#@ lgx-themential
+msgid "Edit Testimonial"
+msgstr ""
+
+#: post-type/lgx-testimonial.php:32
+#@ lgx-themential
+msgid "Update Testimonial"
+msgstr ""
+
+#: post-type/lgx-testimonial.php:33
+#@ lgx-themential
+msgid "Search Testimonial"
+msgstr ""
+
+#: vc-addons/lgx-about.php:19
+#: vc-addons/lgx-get-ticket.php:104
+#@ lgx-themential
+msgid "Buy Ticket"
+msgstr ""
+
+#: vc-addons/lgx-about.php:20
+#@ lgx-themential
+msgid "Read More"
+msgstr ""
+
+#: vc-addons/lgx-about.php:58
+#@ lgx-themential
+msgid "About Section"
+msgstr ""
+
+#: vc-addons/lgx-about.php:61
+#@ lgx-themential
+msgid "Display About Section from Page."
+msgstr ""
+
+#: vc-addons/lgx-about.php:62
+#: vc-addons/lgx-address.php:55
+#: vc-addons/lgx-brand-btn.php:44
+#: vc-addons/lgx-countdown.php:44
+#: vc-addons/lgx-get-ticket.php:132
+#: vc-addons/lgx-gmap.php:101
+#: vc-addons/lgx-latest-news.php:135
+#: vc-addons/lgx-photo-gallery.php:100
+#: vc-addons/lgx-pricing-2.php:54
+#: vc-addons/lgx-schedule.php:179
+#: vc-addons/lgx-sponsors.php:63
+#: vc-addons/lgx-testimonial.php:104
+#: vc-addons/lgx-title-2.php:41
+#: vc-addons/lgx-title.php:48
+#: vc-addons/lgx-travel-info.php:54
+#: vc-addons/lgx-video-embed.php:89
+#@ lgx-themential
+msgid "Event Point"
+msgstr ""
+
+#: vc-addons/lgx-about.php:68
+#: vc-addons/lgx-title-2.php:46
+#: vc-addons/lgx-title.php:43
+#: vc-addons/lgx-title.php:53
+#: vc-addons/lgx-title.php:67
+#@ lgx-themential
+msgid "Section Title"
+msgstr ""
+
+#: vc-addons/lgx-about.php:70
+#@ lgx-themential
+msgid "Leav bank if don't want to show."
+msgstr ""
+
+#: vc-addons/lgx-about.php:76
+#@ lgx-themential
+msgid "Section Lead Text"
+msgstr ""
+
+#: vc-addons/lgx-about.php:82
+#@ lgx-themential
+msgid "Section Short Content"
+msgstr ""
+
+#: vc-addons/lgx-about.php:84
+#@ lgx-themential
+msgid "Write section short description here."
+msgstr ""
+
+#: vc-addons/lgx-about.php:90
+#@ lgx-themential
+msgid "Left Button URL"
+msgstr ""
+
+#: vc-addons/lgx-about.php:96
+#@ lgx-themential
+msgid "Left Button Text"
+msgstr ""
+
+#: vc-addons/lgx-about.php:102
+#@ lgx-themential
+msgid "Right Button URL"
+msgstr ""
+
+#: vc-addons/lgx-about.php:108
+#@ lgx-themential
+msgid "Right Button Text"
+msgstr ""
+
+#: vc-addons/lgx-address.php:50
+#@ lgx-themential
+msgid "Contact Address"
+msgstr ""
+
+#: vc-addons/lgx-address.php:54
+#@ lgx-themential
+msgid "Display Address for Contact Page"
+msgstr ""
+
+#: vc-addons/lgx-address.php:59
+#@ lgx-themential
+msgid "Address Title"
+msgstr ""
+
+#: vc-addons/lgx-address.php:64
+#@ lgx-themential
+msgid "Add Address Info"
+msgstr ""
+
+#: vc-addons/lgx-address.php:72
+#@ lgx-themential
+msgid "Address Info"
+msgstr ""
+
+#: vc-addons/lgx-brand-btn.php:39
+#@ lgx-themential
+msgid "Brand Button"
+msgstr ""
+
+#: vc-addons/lgx-brand-btn.php:43
+#@ lgx-themential
+msgid "Add Brand Button"
+msgstr ""
+
+#: vc-addons/lgx-brand-btn.php:49
+#@ lgx-themential
+msgid "Text"
+msgstr ""
+
+#: vc-addons/lgx-brand-btn.php:62
+#@ lgx-themential
+msgid "Type"
+msgstr ""
+
+#: vc-addons/lgx-brand-btn.php:69
+#@ lgx-themential
+msgid "Target Type"
+msgstr ""
+
+#: vc-addons/lgx-countdown.php:39
+#@ lgx-themential
+msgid "Cicrcle Countdown"
+msgstr ""
+
+#: vc-addons/lgx-countdown.php:43
+#@ lgx-themential
+msgid "Display Cicrcle Countdown"
+msgstr ""
+
+#: vc-addons/lgx-countdown.php:49
+#@ lgx-themential
+msgid "Input Date"
+msgstr ""
+
+#: vc-addons/lgx-get-ticket.php:127
+#@ lgx-themential
+msgid "Register/ Ticket"
+msgstr ""
+
+#: vc-addons/lgx-get-ticket.php:131
+#@ lgx-themential
+msgid "Register or Ticket"
+msgstr ""
+
+#: vc-addons/lgx-get-ticket.php:138
+#@ lgx-themential
+msgid "Number of items in Per Row"
+msgstr ""
+
+#: vc-addons/lgx-get-ticket.php:144
+#@ lgx-themential
+msgid "Add Category Slug"
+msgstr ""
+
+#: vc-addons/lgx-get-ticket.php:151
+#: vc-addons/lgx-latest-news.php:153
+#: vc-addons/lgx-photo-gallery.php:112
+#: vc-addons/lgx-schedule.php:190
+#@ lgx-themential
+msgid "OderBy"
+msgstr ""
+
+#: vc-addons/lgx-get-ticket.php:158
+#: vc-addons/lgx-latest-news.php:160
+#: vc-addons/lgx-photo-gallery.php:119
+#: vc-addons/lgx-schedule.php:184
+#: vc-addons/lgx-testimonial.php:115
+#@ lgx-themential
+msgid "Order"
+msgstr ""
+
+#: vc-addons/lgx-gmap.php:96
+#@ lgx-themential
+msgid "LGX Map"
+msgstr ""
+
+#: vc-addons/lgx-gmap.php:100
+#@ lgx-themential
+msgid "Display LGX Map"
+msgstr ""
+
+#: vc-addons/lgx-gmap.php:106
+#@ lgx-themential
+msgid "Latitude"
+msgstr ""
+
+#: vc-addons/lgx-gmap.php:113
+#@ lgx-themential
+msgid "Longitude"
+msgstr ""
+
+#: vc-addons/lgx-gmap.php:121
+#@ lgx-themential
+msgid "Zoom"
+msgstr ""
+
+#: vc-addons/lgx-gmap.php:129
+#@ lgx-themential
+msgid "PopUp Title"
+msgstr ""
+
+#: vc-addons/lgx-gmap.php:136
+#@ lgx-themential
+msgid "PopUp Text"
+msgstr ""
+
+#: vc-addons/lgx-gmap.php:143
+#@ lgx-themential
+msgid "Map Icon"
+msgstr ""
+
+#: vc-addons/lgx-gmap.php:149
+#@ lgx-themential
+msgid "Map Style"
+msgstr ""
+
+#: vc-addons/lgx-gmap.php:153
+#@ lgx-themential
+msgid "Dark"
+msgstr ""
+
+#: vc-addons/lgx-latest-news.php:90
+#@ lgx-event-point
+msgid "No Comment"
+msgstr ""
+
+#: vc-addons/lgx-latest-news.php:91
+#@ lgx-event-point
+msgid "1 Comment"
+msgstr ""
+
+#: vc-addons/lgx-latest-news.php:92
+#@ lgx-event-point
+msgid "% Comments"
+msgstr ""
+
+#: vc-addons/lgx-latest-news.php:94
+#@ lgx-event-point
+msgid "Comments Closed"
+msgstr ""
+
+#: vc-addons/lgx-latest-news.php:130
+#@ lgx-themential
+msgid "Latest News"
+msgstr ""
+
+#: vc-addons/lgx-latest-news.php:134
+#@ lgx-themential
+msgid "Display Latest News."
+msgstr ""
+
+#: vc-addons/lgx-latest-news.php:139
+#@ lgx-themential
+msgid "Category Filter"
+msgstr ""
+
+#: vc-addons/lgx-latest-news.php:146
+#: vc-addons/lgx-photo-gallery.php:105
+#@ lgx-themential
+msgid "Number of items"
+msgstr ""
+
+#: vc-addons/lgx-photo-gallery.php:99
+#@ lgx-themential
+msgid "Display Photo Gallery"
+msgstr ""
+
+#: vc-addons/lgx-pricing-2.php:49
+#@ lgx-themential
+msgid "pricing_2 Info"
+msgstr ""
+
+#: vc-addons/lgx-pricing-2.php:53
+#@ lgx-themential
+msgid "Display all of the pricing_2 Information"
+msgstr ""
+
+#: vc-addons/lgx-pricing-2.php:58
+#: vc-addons/lgx-sponsors.php:80
+#: vc-addons/lgx-travel-info.php:58
+#@ lgx-themential
+msgid "Upload Image"
+msgstr ""
+
+#: vc-addons/lgx-pricing-2.php:70
+#: vc-addons/lgx-travel-info.php:70
+#@ lgx-themential
+msgid "Alignment"
+msgstr ""
+
+#: vc-addons/lgx-pricing-2.php:78
+#: vc-addons/lgx-travel-info.php:78
+#@ lgx-themential
+msgid "Content"
+msgstr ""
+
+#: vc-addons/lgx-schedule.php:175
+#@ lgx-themential
+msgid "Schedule Section"
+msgstr ""
+
+#: vc-addons/lgx-schedule.php:178
+#@ lgx-themential
+msgid "Display all Schedule"
+msgstr ""
+
+#: vc-addons/lgx-sponsors.php:58
+#@ lgx-themential
+msgid "Sponsors"
+msgstr ""
+
+#: vc-addons/lgx-sponsors.php:62
+#@ lgx-themential
+msgid "Display Sponsors"
+msgstr ""
+
+#: vc-addons/lgx-sponsors.php:67
+#@ lgx-themential
+msgid "Sponsor Title"
+msgstr ""
+
+#: vc-addons/lgx-sponsors.php:72
+#@ lgx-themential
+msgid "Add Sponsors Image"
+msgstr ""
+
+#: vc-addons/lgx-testimonial.php:103
+#@ lgx-themential
+msgid "Display Testimonial"
+msgstr ""
+
+#: vc-addons/lgx-testimonial.php:109
+#@ lgx-themential
+msgid "Testimonial Limit"
+msgstr ""
+
+#: vc-addons/lgx-testimonial.php:122
+#@ lgx-themential
+msgid "Order By"
+msgstr ""
+
+#: vc-addons/lgx-title-2.php:36
+#@ lgx-themential
+msgid "Section Title 2"
+msgstr ""
+
+#: vc-addons/lgx-title-2.php:40
+#: vc-addons/lgx-title.php:47
+#@ lgx-themential
+msgid "Display Section Title"
+msgstr ""
+
+#: vc-addons/lgx-title.php:60
+#@ lgx-themential
+msgid "Section Sub  Title"
+msgstr ""
+
+#: vc-addons/lgx-title.php:74
+#@ lgx-themential
+msgid "Title color"
+msgstr ""
+
+#: vc-addons/lgx-travel-info.php:49
+#@ lgx-themential
+msgid "Travel Info"
+msgstr ""
+
+#: vc-addons/lgx-travel-info.php:53
+#@ lgx-themential
+msgid "Display all of the Travel Information"
+msgstr ""
+
+#: vc-addons/lgx-video-embed.php:84
+#@ lgx-themential
+msgid "Video Section"
+msgstr ""
+
+#: vc-addons/lgx-video-embed.php:88
+#@ lgx-themential
+msgid "Display Youtube Video"
+msgstr ""
+
+#: vc-addons/lgx-video-embed.php:94
+#@ lgx-themential
+msgid "Youtube Video ID"
+msgstr ""
+
+#: vc-addons/lgx-video-embed.php:95
+#@ lgx-themential
+msgid "Please add Youtube Video ID"
+msgstr ""
+
+#: vc-addons/lgx-video-embed.php:102
+#@ lgx-themential
+msgid "Upload Background Image"
+msgstr ""
+
+#: vc-addons/lgx-video-embed.php:109
+#@ lgx-themential
+msgid "Top Padding in REM"
+msgstr ""
+
+#: vc-addons/lgx-video-embed.php:117
+#@ lgx-themential
+msgid "Bottom Padding in REM"
+msgstr ""
+
+#: vc_extend/extend_vc.php:6
+#@ lgx-event-point
+msgid "Enable Inner Container"
+msgstr ""
+
