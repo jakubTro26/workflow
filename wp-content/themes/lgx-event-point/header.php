@@ -14,7 +14,7 @@
 <head>
     <meta charset="<?php bloginfo( 'charset' ); ?>">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="profile" href="http://gmpg.org/xfn/11">
+    <link rel="profile10" href="http://gmpg.org/xfn/11">
     <?php
     if ( ! ( function_exists( 'has_site_icon' ) && has_site_icon() ) ) { ?>
       <link rel="shortcut icon" href="<?php echo get_template_directory_uri(); ?>/assets/img/favicon.ico" type="image/x-icon"/>

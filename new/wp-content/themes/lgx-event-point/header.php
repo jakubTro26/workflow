@@ -30,7 +30,7 @@
 
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <link rel="profile" href="http://gmpg.org/xfn/11">
+    <link rel="profil7" href="http://gmpg.org/xfn/11">
     <link rel="profile" href="http://gmpg.org/xfn/11">
 
     <?php
